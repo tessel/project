@@ -1,6 +1,3 @@
-Tessel Project Mission & Philosophies
-=====================================
-
 # Mission statement:
 Create a fully open source hardware & software platform that makes it easy and intuitive to develop connected devices. The Tessel platform will lead the way for an open web of hardware.
 
