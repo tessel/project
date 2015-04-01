@@ -1,4 +1,4 @@
-# Under construction at [this google doc](https://docs.google.com/document/d/1-Be_AgqMQE2DA1wc9WTw1TgtCWR_h2f30Dh6AuDs248/edit)
+TODO: finish setting up incident reporting email and phone number. Anonymous form submission is live.
 
 Code of Conduct
 ===============
@@ -44,7 +44,7 @@ Harassment includes: harmful or prejudicial verbal or written comments related t
 
 Microaggressions are brief and commonplace daily verbal, behavioral, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative racial or sexual slights and insults. We consider microaggressions to be a form of harassment, and we will take appropriate action for incidences of microaggressions.
 
-Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact us, as outlined in the Contact Info section. Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
+Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact us, as outlined in the Contact Info section below. Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
 
 Likewise any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome.
 
@@ -73,11 +73,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 ## Contact Info
 
 
-If you need to report an incident, please contact us immediately, with a capture (log, photo, email) of the harassment if possible. You can call or text us at NUMBER, email us at incident@tessel.io, or talk to any of the organizers at an event. In addition, you can contact any of the members of the Technical Committee directly:
-
-NAME
-EMAIL
-Twitter link? Something to help people get an idea of who the people are
+If you need to report an incident, please contact us immediately, with a capture (log, photo, email) of the harassment if possible. You can submit anonymously using [this form](http://goo.gl/forms/eSH6cuXu5c), call or text us at NUMBER, email us at incident@tessel.io, or talk to any of the organizers at an event. In addition, you can contact any of the members of the Technical Committee directly. Their contact information is listed on the [Team](/Team.md) page.
 
 ## Credit, License, and Attribution
 

@@ -4,8 +4,8 @@ Anyone is welcome to contribute! Join the developer mailing list LINK and get st
 
 ## Committee Members
 
-* [**Name**](GH Link)
+* [**Name**](Twitter link) | [Github name](github link) | Email: something AT somewhere.thing
 
 ## Moderators
 
-* [**Name**](GH Link)
+* [**Name**](Twitter link) | [Github name](github link)
