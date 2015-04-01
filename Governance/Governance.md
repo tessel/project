@@ -47,7 +47,7 @@ Contributors are encouraged to join the conversation taking place on the [forums
 
 Moderators may opt to elevate significant or controversial modifications, or modifications that have not found consensus, to the SC for discussion by assigning the ***sc-agenda*** tag to a pull request or issue. The SC should serve as the final arbiter where required.
 
-The Contribution Guide can be found in [Contributing](/Contributing.md).
+The Contribution Guide can be found in [the README](/README.md).
 
 Contributors, Moderators, and SC members are all governed by the [Code of Conduct](/Conduct.md) and can be banned for violations.
 

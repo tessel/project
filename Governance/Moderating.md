@@ -12,7 +12,7 @@ This guide is intended to help moderators understand and fulfill their role. For
 
 This document contains information for Moderators of the Tessel project regarding maintaining the code, documentation and issues.
 
-Moderators should be familiar with the guidelines for new contributors in [Contributing](../Contributing.md) and also understand the project governance model as outlined in
+Moderators should be familiar with the guidelines for new contributors in [the README](../README.md) and also understand the project governance model as outlined in
 [Governance.md](./Governance.md).
 
 ## Issues and Pull Requests
