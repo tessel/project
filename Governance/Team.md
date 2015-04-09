@@ -10,7 +10,7 @@ Anyone is welcome to contribute! Join the developer mailing list LINK and get st
 
 ### Transitional
 
-* [**Jialiya Huang**](https://twitter.com/jia) | [jiahuang](http://github.com/jiahuang) | Email: [jia@technical.io](mailto:jia@technical.io)
+* [**Jia Huang**](https://twitter.com/jia) | [jiahuang](http://github.com/jiahuang) | Email: [jia@technical.io](mailto:jia@technical.io)
 * [**Eric Kolker**](https://twitter.com/twiddlee) | [ekolker](http://github.com/ekolker) | Email: [e@technical.io](mailto:e@technical.io)
 * [**Kevin Mehall**](https://twitter.com/kevinmehall) | [kevinmehall](http://github.com/kevinmehall) | Email: [kevin@technical.io](mailto:kevin@technical.io)
 
