@@ -1,6 +1,6 @@
 # Moderator Guide
 
-This guide is intended to help moderators understand and fulfill their role. For a definition of Moderators and information on how to become a Moderator, see the [Governance](./Governance) document.
+This guide is intended to help moderators understand and fulfill their role. For a definition of Moderators and information on how to become a Moderator, see the [GOVERNANCE](GOVERNANCE.md) document.
 
 **Contents**
 
@@ -12,8 +12,8 @@ This guide is intended to help moderators understand and fulfill their role. For
 
 This document contains information for Moderators of the Tessel project regarding maintaining the code, documentation and issues.
 
-Moderators should be familiar with the guidelines for new contributors in [the README](../README.md) and also understand the project governance model as outlined in
-[Governance.md](./Governance.md).
+Moderators should be familiar with the guidelines for new contributors in [the README](README.md) and also understand the project governance model as outlined in
+[GOVERNANCE](GOVERNANCE.md).
 
 ## Issues and Pull Requests
 
@@ -28,7 +28,7 @@ additional discussion. Where this does not yield input from Moderators or additi
 
 All modifications to code and documentation should be performed via GitHub pull requests, including modifications by Moderators and SC members.
 
-All design decisions and hardware modifications should be discussed on the [Forums](//tessel.io/forums) before a pull request is made.
+All design decisions and hardware modifications should be discussed on the [Tessel Forums](//tessel.io/forums) before a pull request is made.
 
 All pull requests must be reviewed and accepted by a Moderator with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Moderator, an additional Moderator is required for sign-off.
 
