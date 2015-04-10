@@ -25,4 +25,4 @@ Get involved with our community in any way you are interested:
 * [tessel.hackster.io](http://tessel.hackster.io) &mdash; Community-submitted projects made with Tessel.
 * [tessel.meetup.com](http://tessel.hackster.io) &mdash; Join a Tessel meetup near you! Meetups happen around the world and are the easiest way to play with hardware in person.
 * #tessel on Freenode &mdash; Our IRC channel for development questions and live help. You can also [use IRCCloud on the web](https://www.irccloud.com/#!/chat.freenode.net:6667/%23tessel).
-* Stack Overflow &mdash; Technical questions about using Tessel.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/tessel) &mdash; Technical questions about using Tessel.
