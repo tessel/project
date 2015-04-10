@@ -4,11 +4,9 @@ This guide is intended to help moderators understand and fulfill their role. For
 
 **Contents**
 
-* Issues and Pull Requests
-* Accepting Modifications
- - Involving the SC
-* Landing Pull Requests
- - Technical HOWTO
+* [Issues and Pull Requests](#issues-and-pull-requests)
+* [Accepting Modifications](#accepting-modifications)
+ - [Involving the SC](#involving-the-sc)
 
 This document contains information for Moderators of the Tessel project regarding maintaining the code, documentation and issues.
 
