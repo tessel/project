@@ -1,14 +1,12 @@
 # Moderator Guide
 
-This guide is intended to help moderators understand and fulfill their role. For a definition of Moderators and information on how to become a Moderator, see the [GOVERNANCE](GOVERNANCE.md) document.
+This guide is intended to help Moderators for the Tessel Project understand and fulfill their role: maintaining code, documentation, and triaging issues. For a definition of Moderators and information on how to become a Moderator, see the [GOVERNANCE](GOVERNANCE.md) document.
 
 **Contents**
 
 * [Issues and Pull Requests](#issues-and-pull-requests)
 * [Accepting Modifications](#accepting-modifications)
  - [Involving the SC](#involving-the-sc)
-
-This document contains information for Moderators of the Tessel project regarding maintaining the code, documentation and issues.
 
 Moderators should be familiar with the guidelines for new contributors in [the README](README.md) and also understand the project governance model as outlined in
 [GOVERNANCE](GOVERNANCE.md).
