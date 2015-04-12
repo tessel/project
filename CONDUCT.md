@@ -1,13 +1,13 @@
-TODO: finish setting up incident reporting email and phone number. Anonymous form submission is live.
-
 Code of Conduct
 ===============
+
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+---
 
 ## Purpose
 
 The core of the Tessel community is the people in it. Our primary goal is ensure this community is as inclusive to the largest number of people, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, socioeconomic status, religion (or lack thereof), or other personal characteristics of attendees.
-
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in the Tessel project to help us create safe and positive experiences for everyone.
 
@@ -73,7 +73,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 ## Contact Info
 
 
-If you need to report an incident, please contact us immediately, with a capture (log, photo, email) of the harassment if possible. You can submit anonymously using [this form](http://goo.gl/forms/eSH6cuXu5c), call or text us at NUMBER, email us at incident@tessel.io, or talk to any of the organizers at an event. In addition, you can contact any of the members of the Technical Committee directly. Their contact information is listed on the [Team](/Team.md) page.
+If you need to report an incident, please contact us immediately, with a capture (log, photo, email) of the harassment if possible. You can [submit anonymously using this form](http://goo.gl/forms/eSH6cuXu5c), call or text us at (970) 283-7735, email us at incident@tessel.io, or talk to any of the organizers at an event. In addition, you can contact any of the members of the Technical Committee directly. Their contact information is listed on the [Team](TEAM.md) page.
 
 ## Credit, License, and Attribution
 
