@@ -1,6 +1,8 @@
-*ITT:* A list of digital accounts, legal, physical, and financial resources owned by the Tessel Project.
-
 # Resources
+
+A list of digital accounts, legal, physical, and financial resources owned by the Tessel Project.
+
+---
 
 ## Legal
 
@@ -24,7 +26,7 @@
 * **Github:** Used for code, collaboration, bug filing, and fun.
 * **Mitro:** This is a shared account for controlling passwords for all other accounts.
 * **Hangouts:** Venue for recorded Steering Committee meetings.
-* **IRC:** Tessel congregates on the #tessel channel on Freenode. Members of the SC are labeled moderators.
+* **IRC:** Tessel congregates on the #tessel channel on Freenode. Members of the SC are labeled Collaborators.
 
 ## Social Media
 

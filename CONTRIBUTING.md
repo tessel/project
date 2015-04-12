@@ -3,10 +3,10 @@
 This guide is for anyone interested in contributing to Tessel.
 
 ## Feature Requests
-To request a change in any components of the Tessel ecosystem such as adding a command line interface option, adding support for various drivers in the kernel, or suggesting a new pece of hardware, please create a new post on the [Forums with the `contributing` tag](https://forums.tessel.io/c/contributing). We have no specific format for the RFC but feel free to check out [this example](https://forums.tessel.io/t/wifi-api-from-js-for-the-cc3000/399). The community will then discuss the change and if a moderator approves of the RFC, they will create an issue on the appropriate repository. If you agree to it, you may be assigned to the issue and expected to develop that feature.
+To request a change in any components of the Tessel ecosystem such as adding a command line interface option, adding support for various drivers in the kernel, or suggesting a new pece of hardware, please create a new post on the [Forums with the `contributing` tag](https://forums.tessel.io/c/contributing). We have no specific format for the RFC but feel free to check out [this example](https://forums.tessel.io/t/wifi-api-from-js-for-the-cc3000/399). The community will then discuss the change and if a Collaborator approves of the RFC, they will create an issue on the appropriate repository. If you agree to it, you may be assigned to the issue and expected to develop that feature.
 
 ## Bug Reports
-Every once in a while, you may run into a bug when using Tessel. Please do report it! If you aren't sure where to report it (system overview coming soon!), please ask on the [Forums](forums.tessel.io) or just open an issue on this github repo (a moderator will move the issue if necessary). It's much preferred to report an issue that may already exist rather than risk leaving the flaw unexposed.
+Every once in a while, you may run into a bug when using Tessel. Please do report it! If you aren't sure where to report it (system overview coming soon!), please ask on the [Forums](forums.tessel.io) or just open an issue on this github repo (a Collaborator will move the issue if necessary). It's much preferred to report an issue that may already exist rather than risk leaving the flaw unexposed.
 
 Opening an issue is as easy as following [this
 link](https://github.com/technicalmachine/tessel-project/issues) and filling out the fields.
@@ -41,22 +41,22 @@ If you haven't already, [fork the repository](https://help.github.com/articles/f
 Fix the bug or add the feature. Please make descriptive and focused git commits. Be sure to add relevant tests. If you have any questions, feel free to comment on the original Github issue and we'll get back to you as quickly as possible.
 
 ### 4. Make a Pull Request
-Once you've implemented and tested the change, open a [pull request][pull-requests] on your branch. If there is someone in the community that you would specifically like to have review your code, call them out on the pull request with a comment like `review? @johnnyman727` and that person will assist shortly. Otherwise, one of the project [moderators](https://github.com/technicalmachine/tessel-project/blob/master/Governance/Moderating.md) will review the code and provide feedback.
+Once you've implemented and tested the change, open a [pull request][pull-requests] on your branch. If there is someone in the community that you would specifically like to have review your code, call them out on the pull request with a comment like `review? @johnnyman727` and that person will assist shortly. Otherwise, one of the project [Collaborators](https://github.com/technicalmachine/tessel-project/blob/master/Governance/Moderating.md) will review the code and provide feedback.
 
 ### 5. Merge the PR
-After the code has been reviewed, the moderator may suggest several things to change about the contribution before it's ready. After the necessary changes have been made, the moderator will accept the pull request and merge it into the master branch! 
+After the code has been reviewed, the Collaborator may suggest several things to change about the contribution before it's ready. After the necessary changes have been made, the Collaborator will accept the pull request and merge it into the master branch! 
 
 ## Issue Triage
 
-The project moderators may not have time to investigate every issue. If you find an older issue that nobody has commented on, it would be very appreciated if you could reproduce the issue, make a simple test case if necessary, and potentially suggest the root cause and/or solutions.
+The project Collaborators may not have time to investigate every issue. If you find an older issue that nobody has commented on, it would be very appreciated if you could reproduce the issue, make a simple test case if necessary, and potentially suggest the root cause and/or solutions.
 
 ## Landing Pull Requests
 
-Moderators are permitted to merge pull requests submitted to any Tessel repository.
+Collaborators are permitted to merge pull requests submitted to any Tessel repository.
 
 When merging a pull request, you should modify the original commit message to include additional meta information regarding the change process:
 
-- A `Reviewed-By: Name <email>` line for yourself and any other Moderators who have reviewed the change.
+- A `Reviewed-By: Name <email>` line for yourself and any other Collaborators who have reviewed the change.
 - A `PR-URL:` line that references the full GitHub URL of the original pull request being merged so it's easy to trace a commit back to the  conversation that led up to that change.
 - A `Fixes: X` line, where _X_ is either includes the full GitHub URL for an issue, and/or the hash and commit message if the commit fixes a bug in a previous commit. Multiple `Fixes:` lines may be added if appropriate.
 
