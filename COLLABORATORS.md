@@ -6,12 +6,12 @@ This guide is intended to help Collaborator for the Tessel Project understand an
 
 **Contents**
 
-* Approving or rejecting modifications to assets (bug fixes etc)
-* Managing feature requests and RFCs
-* Maintaining strong communication with the community
- * Support
- * Blog Posts
-* Ensuring open and respectful discourse
+* [Approving or rejecting modifications to assets (bug fixes etc)](#approving-or-rejecting-modifications-to-assets-such-as-bug-fixes-code-refactoring-or-minor-api-or-feature-changes)
+* [Managing feature requests and RFCs](#managing-feature-requests-and-rfcs)
+* [Maintaining strong communication with the community](#maintaining-strong-communication-with-the-community)
+ * [Support](#support)
+ * [Blog Posts](#blog-posts)
+* [Ensuring open and respectful discourse](#ensuring-open-and-respectful-discourse)
 
 Collaborators should be familiar with the guidelines for new contributors in [the Contribution Guide](CONTRIBUTING.md). For a definition of Collaborator and information on how to become a Collaborator, see the [GOVERNANCE](GOVERNANCE.md) document.
 
