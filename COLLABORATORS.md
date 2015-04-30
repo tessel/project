@@ -19,10 +19,10 @@ Collaborators should be familiar with the guidelines for new contributors in [th
 
 ## Approving or rejecting modifications to assets (such as bug fixes, code refactoring, or minor API or feature changes)
 
-1. Something is received (PR, RFC, etc.)
+1. A change request is received (PR, RFC, etc.).
 1. Within a week, a collaborator should be assigned to respond either automatically or manually by another collaborator.
-1. Two (or more) Collaborators must agree to approve or reject the proposed change
-1. Any modifications to assets should be open for a minimum of 24 hours to allow discussion
+1. Two (or more) Collaborators must agree to approve or reject the proposed change.
+1. Any modifications to assets should be open for a minimum of 24 hours to allow discussion.
 1. If Collaborators cannot come to an agreement on approval or rejection, an involved Collaborator should make an issue [here](https://github.com/technicalmachine/tessel-project/issues) tagged ‘sc-agenda’ for discussion by the SC.
 
 ## Managing feature requests and RFCs
@@ -36,7 +36,7 @@ Collaborators should be familiar with the guidelines for new contributors in [th
 
 ### Support
 
-1. A support request is received on the forums
+1. A support request is received on the forums.
 1. Within a week, if no one from the community has resolved the question, a Collaborator should respond.
 
 ### Blog Posts
