@@ -19,25 +19,25 @@ Collaborators should be familiar with the guidelines for new contributors in [th
 
 ## Approving or rejecting modifications to assets (such as bug fixes, code refactoring, or minor API or feature changes)
 
-Something is received (PR, RFC, etc.)
-Within a week, a collaborator should be assigned to respond either automatically or manually by another collaborator.
-Two (or more) Collaborators must agree to approve or reject the proposed change
-Any modifications to assets should be open for a minimum of 24 hours to allow discussion
-If Collaborators cannot come to an agreement on approval or rejection, an involved Collaborator should make an issue [here](https://github.com/technicalmachine/tessel-project/issues) tagged ‘sc-agenda’ for discussion by the SC.
+1. Something is received (PR, RFC, etc.)
+1. Within a week, a collaborator should be assigned to respond either automatically or manually by another collaborator.
+1. Two (or more) Collaborators must agree to approve or reject the proposed change
+1. Any modifications to assets should be open for a minimum of 24 hours to allow discussion
+1. If Collaborators cannot come to an agreement on approval or rejection, an involved Collaborator should make an issue [here](https://github.com/technicalmachine/tessel-project/issues) tagged ‘sc-agenda’ for discussion by the SC.
 
 ## Managing feature requests and RFCs
 
-Discussion of major new features should take place on the [forums](https://forums.tessel.io/c/contributing/rfc). These can be proposed by anyone.
-When a consensus of two or more Collaborators is reached, a Collaborator will sum up the RFC into a comprehensive spec on the forum. 
-The Collaborator will then open up all relevant Issues on any appropriate Github repos outlining implementation details. On each Github issue, a link back to the original RFC Forum thread should be placed. 
-On the original RFC Forum thread, the Collaborator will create a checklist of all of the Github issues they created.
+1. Discussion of major new features should take place on the [forums](https://forums.tessel.io/c/contributing/rfc). These can be proposed by anyone.
+1. When a consensus of two or more Collaborators is reached, a Collaborator will sum up the RFC into a comprehensive spec on the forum. 
+1. The Collaborator will then open up all relevant Issues on any appropriate Github repos outlining implementation details. Each Github issue should contain a link back to the original RFC Forum thread.
+1. On the original RFC Forum thread, the Collaborator will create a checklist of all of the Github issues they created.
 
 ## Maintaining strong communication with the community
 
 ### Support
 
-A support request is received on the forums
-Within a week, if no one from the community has resolved the question, a Collaborator should respond.
+1. A support request is received on the forums
+1. Within a week, if no one from the community has resolved the question, a Collaborator should respond.
 
 ### Blog Posts
 
