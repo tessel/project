@@ -20,5 +20,5 @@ These are de *facto* committee members for the duration of the initial structuri
 
 * [**Kwyn Meagher**](https://twitter.com/harleykwyn) | [harleykwyn](http://github.com/harleykwyn) | Email: [kwyn@technical.io](mailto:kwyn@technical.io)
 * [**Kenneth Niederhausen**](https://twitter.com/nplus11) | [nplus11](http://github.com/nplus11) | Email: [ken@technical.io](mailto:ken@technical.io)
-
+* [**Nicholas van de Walle**](https://twitter.com/MrN_Ice) | [MrNice](http://github.com/MrNice) | Email:[me@niceguys.co](me@niceguys.co)
 
