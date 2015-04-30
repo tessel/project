@@ -1,4 +1,8 @@
-**Mission statement:** Create a fully open source hardware & software platform that makes it easy and intuitive to develop connected devices. The Tessel platform will lead the way for an open web of hardware.
+# Mission
+
+Create a fully open source hardware & software platform that makes it easy and intuitive to develop Internet-connected devices. Decisions are steered by open governance, an inclusive community, and the goal of creating freely-licensed designs and tools.
+
+---
 
 # Core philosophies:
 
