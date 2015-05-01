@@ -13,7 +13,7 @@ There are a handful of different ways to [contribute to the project](CONTRIBUTIN
 * [Pull Requests](CONTRIBUTING.md#pull-requests)
 * [Issue Triage](CONTRIBUTING.md#issue-triage)
 
-If you have questions, please make a post on [our forums](forums.tessel.io) and someone from the community will respond shortly.
+If you have questions, please make a post on [our forums](https://forums.tessel.io) and someone from the community will respond shortly.
 
 All contributors are expected to follow our [Code of Conduct](Conduct.md).
 
