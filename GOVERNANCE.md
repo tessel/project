@@ -86,7 +86,7 @@ Managing an area means that you are responsible to report back to the SC on the 
 
 ## SC Meetings
 
-The SC meets weekly on a Google Hangout. The meeting is run by a designated Collaborator approved by the SC at the previous meeting. Each meeting should be published to YouTube, and notes should be submitted via PR to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes).
+The SC meets weekly on a Google Hangout. The meeting is run by a designated Collaborator approved by the SC at the previous meeting. Notes should be submitted via PR to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes).
 
 Items are added to the SC agenda which are considered contentious or are modifications of governance, contribution policy, SC membership, or release process.
 
