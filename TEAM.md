@@ -5,7 +5,7 @@ Anyone is welcome to contribute! Join the developer mailing list LINK and get st
 ## Committee Members
 
 * [**Kelsey Breseman**](http://twitter.com/selkeymoonbeam/) | [frijol](http://github.com/frijol) | Email: [kelsey@technical.io](mailto:kelsey@technical.io)
-* [**Jon McKay**](http://twitter.com/jonmckay) | [johnnyman727](http://github.com/johnnyman727)
+* [**Jon McKay**](http://twitter.com/jonmckay) | [johnnyman727](http://github.com/johnnyman727) | Email: [jon@technical.io](mailto:jon@technical.io)
 * [**Tim Ryan**](http://twitter.com/timcameronryan/) | [tcr](http://github.com/tcr) | Email: [tim@technical.io](mailto:tim@technical.io)
 
 ### Transitional
@@ -19,6 +19,6 @@ These are de *facto* committee members for the duration of the initial structuri
 ## Collaborators
 
 * [**Kwyn Meagher**](https://twitter.com/harleykwyn) | [harleykwyn](http://github.com/harleykwyn) | Email: [kwyn@technical.io](mailto:kwyn@technical.io)
-* [**Kenneth Niederhausen**](https://twitter.com/nplus11) | [nplus11](http://github.com/nplus11) | Email: [ken@technical.io](mailto:ken@technical.io)
+* [**Kenneth Nierenhausen**](https://twitter.com/nplus11) | [nplus11](http://github.com/nplus11) | Email: [ken@technical.io](mailto:ken@technical.io)
 
 
