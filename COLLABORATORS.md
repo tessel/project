@@ -1,58 +1,54 @@
 # Collaborator Guide
 
-This guide is intended to help Collaborator for the Tessel Project understand and fulfill their role: maintaining code, documentation, and triaging issues.
+This guide is intended to help Collaborator for the Tessel Project understand and fulfill their role. Collaborators moderate and review contributions and conversations surrounding the Tessel project.
 
 ---
 
 **Contents**
 
-* [Issues and Pull Requests](#issues-and-pull-requests)
-* [Accepting Modifications](#accepting-modifications)
- - [Involving the SC](#involving-the-sc)
+* [Approving or rejecting modifications to assets (bug fixes etc)](#approving-or-rejecting-modifications-to-assets-such-as-bug-fixes-code-refactoring-or-minor-api-or-feature-changes)
+* [Managing feature requests and RFCs](#managing-feature-requests-and-rfcs)
+* [Maintaining strong communication with the community](#maintaining-strong-communication-with-the-community)
+ * [Support](#support)
+ * [Blog Posts](#blog-posts)
+* [Ensuring open and respectful discourse](#ensuring-open-and-respectful-discourse)
 
 Collaborators should be familiar with the guidelines for new contributors in [the Contribution Guide](CONTRIBUTING.md). For a definition of Collaborator and information on how to become a Collaborator, see the [GOVERNANCE](GOVERNANCE.md) document.
 
-## Issues and Pull Requests
-
-Courtesy should always be shown to individuals submitting issues and pull requests to the Tessel project.
-
-Collaborators should feel free to take full responsibility for managing issues and pull requests they feel qualified to handle, as long as this is done while being mindful of these guidelines, the opinions of other Collaborators and guidance of the SC.
-
-Collaborators may **close** any issue or pull request they believe is not relevant for the future of the Tessel project. Where this is unclear, the issue should be left open for several days to allow for
-additional discussion. Where this does not yield input from Collaborators or additional evidence that the issue has relevance, the issue may be closed. Remember that issues can always be re-opened if necessary.
-
-## Accepting Modifications
-
-All modifications to code and documentation should be performed via GitHub pull requests, including modifications by Collaborators and SC members.
-
-All design decisions and hardware modifications should be discussed on the [Tessel Forums](//tessel.io/forums) before a pull request is made.
-
-All pull requests must be reviewed and accepted by a Collaborator with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Collaborator, an additional Collaborator is required for sign-off.
-
-In some cases, it may be necessary to summon a qualified Collaborator to a pull request for review by @-mention.
-
-If you are unsure about the modification and are not prepared to take full responsibility for the change, defer to another Collaborator.
-
-Before landing pull requests, sufficient time should be left for input from other Collaborators. Leave at least 48 hours during the week and
-72 hours over weekends to account for international time differences
-and work schedules. Trivial changes (e.g. those which fix minor bugs or improve performance without affecting API or causing other
-wide-reaching impact) may be landed after a shorter delay.
-
-Where there is no disagreement amongst Collaborators, a pull request may be landed given appropriate review. Where there is discussion amongst Collaborators, consensus should be sought if possible. A lack of consensus may indicate the need to elevate discussion to the
-SC for resolution (see below).
-
-All bug fixes require a test case which demonstrates the defect. The test should *fail* before the change, and *pass* after the change.
-
-### Involving the SC
-
-Collaborators may opt to elevate pull requests or issues to the SC for discussion by assigning the ***sc-agenda*** tag. This should be done where a pull request:
-
-- has a significant impact on the codebase,
-- is inherently controversial; or
-- has failed to reach consensus amongst the Collaborators who are actively participating in the discussion.
-
-The SC should serve as the final arbiter where required.
-
 ---
 
-Attribution: Parts of this guide are based on the io.js [Collaborator Guide](https://github.com/iojs/io.js/blob/v1.x/COLLABORATOR_GUIDE.md).
+## Approving or rejecting modifications to assets (such as bug fixes, code refactoring, or minor API or feature changes)
+
+1. A change request is received (PR, RFC, etc.).
+1. Within a week, a collaborator should be assigned to respond either automatically or manually by another collaborator.
+1. If Collaborators cannot come to an agreement on approval or rejection, an involved Collaborator should make an issue [here](https://github.com/technicalmachine/tessel-project/issues) tagged ‘sc-agenda’ for discussion by the SC.
+
+Guidelines:
+
+1. If you're not sure about something, pull in someone else to help review. Check the repo's contributor graph (repo url/graphs/contributors) to find someone familiar with the repository.
+1. Two (or more) Collaborators should agree to approve or reject anything major.
+1. Allow an adequate amount of time (two days is suitable) for discussion before merging/closing.
+
+## Managing feature requests and RFCs
+
+1. Discussion of major new features should take place on the [forums](https://forums.tessel.io/c/contributing/rfc). These can be proposed by anyone.
+1. When a consensus of two or more Collaborators is reached, a Collaborator will sum up the RFC into a comprehensive spec on the forum.
+1. The Collaborator will then open up all relevant Issues on any appropriate Github repos outlining implementation details. Each Github issue should contain a link back to the original RFC Forum thread.
+1. On the original RFC Forum thread, the Collaborator will create a checklist of all of the Github issues they created.
+
+## Maintaining strong communication with the community
+
+### Support
+
+1. A support request is received on the forums.
+1. Within a week, if no one from the community has resolved the question, a Collaborator should respond.
+
+### Blog Posts
+
+Collaborators are encouraged to post new features or interesting facets of the project to the blog. Credentials to the technical.io blog (Tumblr) will be shared with Collaborators and they should feel free to post any time. Kelsey ([@selkeymoonbeam](//twitter.com/selkeymoonbeam)) is happy to review and offer suggestions on any posts prior to publishing.
+
+## Ensuring open and respectful discourse
+
+If a member of the community is unkind or disrespectful, Collaborators should encourage more constructive discourse by responding politely, kindly, and respectfully. Do not engage in a flame war.
+
+Collaborators should review the [Code of Conduct](LINK) and ensure that it is followed. Harassment/abuse/etc. should be brought to the attention of the SC as outlined in the Code of Conduct. The SC will take appropriate action to ban abusive members.
