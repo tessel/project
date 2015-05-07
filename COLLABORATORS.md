@@ -21,14 +21,18 @@ Collaborators should be familiar with the guidelines for new contributors in [th
 
 1. A change request is received (PR, RFC, etc.).
 1. Within a week, a collaborator should be assigned to respond either automatically or manually by another collaborator.
-1. Two (or more) Collaborators must agree to approve or reject the proposed change.
-1. Any modifications to assets should be open for a minimum of 24 hours to allow discussion.
 1. If Collaborators cannot come to an agreement on approval or rejection, an involved Collaborator should make an issue [here](https://github.com/technicalmachine/tessel-project/issues) tagged ‘sc-agenda’ for discussion by the SC.
+
+Guidelines:
+
+1. If you're not sure about something, pull in someone else to help review. Check the repo's contributor graph (repo url/graphs/contributors) to find someone familiar with the repository.
+1. Two (or more) Collaborators should agree to approve or reject anything major.
+1. Allow an adequate amount of time (two days is suitable) for discussion before merging/closing.
 
 ## Managing feature requests and RFCs
 
 1. Discussion of major new features should take place on the [forums](https://forums.tessel.io/c/contributing/rfc). These can be proposed by anyone.
-1. When a consensus of two or more Collaborators is reached, a Collaborator will sum up the RFC into a comprehensive spec on the forum. 
+1. When a consensus of two or more Collaborators is reached, a Collaborator will sum up the RFC into a comprehensive spec on the forum.
 1. The Collaborator will then open up all relevant Issues on any appropriate Github repos outlining implementation details. Each Github issue should contain a link back to the original RFC Forum thread.
 1. On the original RFC Forum thread, the Collaborator will create a checklist of all of the Github issues they created.
 
