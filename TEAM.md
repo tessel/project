@@ -7,6 +7,7 @@ Anyone is welcome to contribute! Join the developer mailing list LINK and get st
 * [**Kelsey Breseman**](http://twitter.com/selkeymoonbeam/) | [frijol](http://github.com/frijol) | Email: [kelsey@technical.io](mailto:kelsey@technical.io)
 * [**Jon McKay**](http://twitter.com/jonmckay) | [johnnyman727](http://github.com/johnnyman727) | Email: [jon@technical.io](mailto:jon@technical.io)
 * [**Tim Ryan**](http://twitter.com/timcameronryan/) | [tcr](http://github.com/tcr) | Email: [tim@technical.io](mailto:tim@technical.io)
+* [**Rick Waldron**](http://twitter.com/rwaldron/) | [rwaldron](http://github.com/rwaldron) | Email: [waldron.rick@gmail.com](mailto:waldron.rick@gmail.com)
 
 ### Transitional
 
