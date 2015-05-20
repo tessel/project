@@ -5,6 +5,11 @@
 ## What is this project?
 Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them. Tessel is about designing intuitive and accessible hardware development experiences around the open web. Feel free to read more about our [mission](MISSION.md) and [governance model](GOVERNANCE.md).
 
+This repository is for the organization and governance of the Tessel project as a whole. For code, see the [Tessel GitHub organization](https://github.com/tessel). 
+
+**Tessel 2:** [CLI](https://github.com/tessel/t2-cli) | [Firmware](https://github.com/tessel/t2-firmware) | [OpenWrt build](https://github.com/tessel/openwrt-tessel)  
+**Tessel 1:** [CLI](https://github.com/tessel/cli) | [Firmware](https://github.com/tessel/t1-firmware) | [Runtime](https://github.com/tessel/t1-runtime)
+
 ## How can I get involved?
 
 By contributing to Tessel, you'll be a valued member of a passionate, diverse team and one of the pioneers of the burgeoning connected devices space. Here are some ways in which you can get involved:
