@@ -1,9 +1,9 @@
 # <img src="https://cloud.githubusercontent.com/assets/80639/7736468/c78ac686-fef8-11e4-9931-cc3ef8fd37a0.png" width="600" alt="The Tessel Project">
 
-<img src="https://tessel-slack.herokuapp.com/badge.svg">
+Join the conversation on our community chat: <img src="https://tessel-slack.herokuapp.com/badge.svg">
 
 ## What is this project?
-Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them. Tessel is about designing intuitive and accessible hardware development experiences around the open web. Feel free to read more about our [mission](MISSION.md) and [governance model](GOVERNANCE.md).
+Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them. Tessel is about designing intuitive and accessible hardware development experiences around the open web. Feel free to read more about our [mission](MISSION.md) and [governance model](GOVERNANCE.md). Please also read and adhere to our [code of conduct](https://github.com/tessel/project/blob/master/CONDUCT.md).
 
 This repository is for the organization and governance of the Tessel project as a whole. For code, see the [Tessel GitHub organization](https://github.com/tessel). 
 
