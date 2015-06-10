@@ -16,5 +16,6 @@ Anyone is welcome to contribute! Join the developer mailing list LINK and get st
 * [**Kevin Mehall**](https://twitter.com/kevinmehall) | [kevinmehall](http://github.com/kevinmehall) | Email: [kevin@technical.io](mailto:kevin@technical.io)
 * [**Kwyn Meagher**](https://twitter.com/harleykwyn) | [harleykwyn](http://github.com/harleykwyn) | Email: [kwyn@technical.io](mailto:kwyn@technical.io)
 * [**Kenneth Nierenhausen**](https://twitter.com/nplus11) | [nplus11](http://github.com/nplus11) | Email: [ken@technical.io](mailto:ken@technical.io)
+* [**Linus Unnebäck**](https://twitter.com/linusu) | [LinusU](http://github.com/LinusU) | Email: [linus@folkdatorn.se](mailto:linus@folkdatorn.se)
 
 If you'd like to become a collaborator, reach out to an SC member via email.
