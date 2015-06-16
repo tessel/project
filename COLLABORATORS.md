@@ -31,7 +31,7 @@ Guidelines:
 
 ## Managing feature requests and RFCs
 
-1. Discussion of major new features should take place on the RFC repo for each particular addition. These can be proposed by anyone.
+1. Discussion of major new features should take place on the [RFC repo](github.com/tessel/rfcs) for each particular addition. These can be proposed by anyone.
 
 ## Maintaining strong communication with the community
 
