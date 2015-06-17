@@ -8,7 +8,7 @@ This document describes how the Tessel Project is organized.
 
 The Tessel project follows the mission and philosophies outlined [here](/Mission.md).
 
-The Tessel project is organized in a tiered system. Members of the Steering Committee jointly govern and give high-level guidance to the project. Collaborators, chosen by the Steering Committee, manage the day-to-day of community management and technical review. Anyone is welcome to be a Contributor and add to the discussion or to technical assets. These roles and the Project’s processes are outlined in more detail below.
+The Tessel project is organized in a tiered system. Members of the Steering Committee jointly govern and give high-level guidance to the project. Team Members, chosen by the Steering Committee, manage the day-to-day of community management and technical review. Anyone is welcome to be a Contributor and add to the discussion or to technical assets. These roles and the Project’s processes are outlined in more detail below.
 
 ## Steering Committee
 
@@ -24,38 +24,36 @@ The SC has final authority over and responsibility to this project including:
 * GitHub repository hosting
 * Conduct guidelines
 * Operations, including manufacturing and distribution of physical goods
-* Maintaining the list of additional Collaborators
+* Maintaining the list of additional Team Members
 
 Membership in the SC is expected to evolve over time according to the needs of the project. See the SC Membership section below for details.
 
-For the current list of SC members, see [Team](/Team.md#Committee+Members).
+For the current list of SC members, see [Team](/Team.md).
 
-All assets of the Tessel project not managed by an outside foundation, including website and GitHub repository, are maintained by the SC and additional Collaborators who are added by the SC on an ongoing basis.
+All assets of the Tessel project not managed by an outside foundation, including website and GitHub repository, are maintained by the SC and additional Team Members who are added by the SC on an ongoing basis.
 
-## Collaborators
+## Team Members
 ssel
-The SC identifies individuals making significant and valuable contributions to the project and adds them as Collaborators in the standard decision-making process (see Consensus Seeking Process below).
+The SC identifies individuals making significant and valuable contributions to the project and adds them as Team Members in the standard decision-making process (see Consensus Seeking Process below).
 
-Collaborators are given:
+Team Members are given:
 
 * Commit access to the project repos
-* Collaborator status on the forums
+* Moderator status on the forums
 
-For the current list of Collaborators, see [Team](/Team.md#Collaborators).
+For the current list of Team Members, see [Team](/Team.md).
 
-A guide for Collaborators is maintained in [Moderating](/Moderating.md).
-
-Contact an SC member for consideration and information about becoming a Collaborator.
+A guide for Team Members is maintained in [Team Members](/TEAM-MEMBERS.md).
 
 ## Contributors
 
-Contributors are encouraged to join the conversation taking place on the [forums](//tessel.io/forums). Anyone may propose a modification to assets via pull request, though in the case of hardware, discussion on the forums is advised first. Pull requests will be considered by the project Collaborators. All pull requests must be reviewed and accepted by a Collaborator with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Collaborator, an additional Collaborator is required for sign-off.
+Contributors are encouraged to join the conversation taking place on the [forums](//tessel.io/forums). Anyone may propose a modification to assets via pull request, though in the case of hardware, discussion on the forums is advised first. Pull requests will be considered by the project Team Members. All pull requests must be reviewed and accepted by a Team Member with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Team Member, an additional Team Member is required for sign-off.
 
-Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus, to the SC for discussion by assigning the ***sc-agenda*** tag to a pull request or issue. The SC should serve as the final arbiter where required.
+Team Members may opt to elevate significant or controversial modifications, or modifications that have not found consensus, to the SC for discussion by assigning the ***sc-agenda*** tag to a pull request or issue. The SC should serve as the final arbiter where required.
 
 The Contribution Guide can be found in [the README](/README.md).
 
-Contributors, Collaborators, and SC members are all governed by the [Code of Conduct](/Conduct.md) and can be banned for violations.
+Contributors, Team Members, and SC members are all governed by the [Code of Conduct](/Conduct.md) and can be banned for violations.
 
 ## SC Membership
 
@@ -73,7 +71,7 @@ Changes to SC membership should be posted in the agenda, and may be suggested as
 
 In order to make sure all parts of the Tessel project are managed and moving forward, the SC will assign management of each of the following areas at the end of each meeting:
 
-* SC Meeting Collaborator for the next meeting
+* SC Meeting Moderator for the next meeting
 * Administrator: Meta & Administrative Work about the Tessel Project
 * Hardware Development & Documentation
 * Software Development & Documentation
@@ -86,15 +84,15 @@ Managing an area means that you are responsible to report back to the SC on the 
 
 ## SC Meetings
 
-The SC meets weekly on a Google Hangout. The meeting is run by a designated Collaborator approved by the SC at the previous meeting. Notes should be submitted via PR to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes).
+The SC meets weekly on a Google Hangout. The meeting is run by a designated Moderator approved by the SC at the previous meeting. Notes should be submitted via PR to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes).
 
 Items are added to the SC agenda which are considered contentious or are modifications of governance, contribution policy, SC membership, or release process.
 
-Any community member or contributor can ask that something be added to the next meeting's agenda by logging [a GitHub Issue on this repo](/issues). Any Collaborator, SC member, or the Collaborator can add the item to the agenda by adding the ***sc-agenda*** tag to the issue.
+Any community member or contributor can ask that something be added to the next meeting's agenda by logging [a GitHub Issue on this repo](/issues). Any Team Member, SC member, or the Moderator can add the item to the agenda by adding the ***sc-agenda*** tag to the issue.
 
-Prior to each SC meeting, the Collaborator will share the Agenda with members of the SC. SC members can add any items they like to the agenda any time before the meeting begins. The Collaborator and the SC cannot veto or remove items.
+Prior to each SC meeting, the Moderator will share the Agenda with members of the SC. SC members can add any items they like to the agenda any time before the meeting begins. The Moderator and the SC cannot veto or remove items.
 
-The Collaborator is responsible for summarizing the discussion of each agenda item and releasing it as a pull request to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes) after the meeting.
+The Moderator is responsible for summarizing the discussion of each agenda item and releasing it as a pull request to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes) after the meeting.
 
 Meeting attendance is restricted to members of the Steering Committee.
 
@@ -104,7 +102,7 @@ The SC follows a
 [Consensus Seeking](http://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
 decision making model.
 
-When an agenda item has appeared to reach a consensus the Collaborator will ask "Does anyone object?" as a final call for dissent from the consensus.
+When an agenda item has appeared to reach a consensus the Moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
 
 If an agenda item cannot reach a consensus a SC member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be seconded by a majority of the SC or else the discussion will continue. 2/3 majority wins in a vote.
 
