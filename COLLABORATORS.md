@@ -31,10 +31,7 @@ Guidelines:
 
 ## Managing feature requests and RFCs
 
-1. Discussion of major new features should take place on the [forums](https://forums.tessel.io/c/contributing/rfc). These can be proposed by anyone.
-1. When a consensus of two or more Collaborators is reached, a Collaborator will sum up the RFC into a comprehensive spec on the forum.
-1. The Collaborator will then open up all relevant Issues on any appropriate Github repos outlining implementation details. Each Github issue should contain a link back to the original RFC Forum thread.
-1. On the original RFC Forum thread, the Collaborator will create a checklist of all of the Github issues they created.
+1. Discussion of major new features should take place on the [RFC repo](github.com/tessel/rfcs) for each particular addition. These can be proposed by anyone.
 
 ## Maintaining strong communication with the community
 
