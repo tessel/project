@@ -1,6 +1,6 @@
 The Tessel project is an open source project governed by a [Steering Committee](/Governance.md).
 
-Anyone is welcome to contribute! Get started with the [contribution guide](/Contributing.md).
+Anyone is welcome to contribute! Get started [here](https://github.com/tessel/project#how-can-i-get-involved).
 
 ## [Steering Committee Members](/GOVERNANCE.md)
 
