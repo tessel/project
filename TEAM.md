@@ -1,4 +1,4 @@
-The Tessel project is an open source project governed by a [Steering Committee](/Governance.md).
+The Tessel project is an open source project governed by a [Steering Committee](https://github.com/tessel/project/blob/master/GOVERNANCE.md).
 
 Anyone is welcome to contribute! Get started [here](https://github.com/tessel/project#how-can-i-get-involved).
 
