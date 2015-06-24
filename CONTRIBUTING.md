@@ -3,10 +3,10 @@
 This guide is for anyone interested in contributing to Tessel.
 
 ## Feature Requests
-To request a change in any components of the Tessel ecosystem such as adding a command line interface option, adding support for various drivers in the kernel, or suggesting a new piece of hardware, please create an RFC. Detailed instructions can be found on [the RFC repo](github.com/tessel/rfcs).
+To request a change in any components of the Tessel ecosystem such as adding a command line interface option, adding support for various drivers in the kernel, or suggesting a new piece of hardware, please create an RFC. Detailed instructions can be found on [the RFC repo](https://github.com/tessel/rfcs).
 
 ## Bug Reports
-Every once in a while, you may run into a bug when using Tessel. Please do report it! If you aren't sure where to report it (system overview coming soon!), please ask on the [Forums](forums.tessel.io) or just open an issue on this github repo (a Team Member will move the issue if necessary). It's much preferred to report an issue that may already exist rather than risk leaving the flaw unexposed.
+Every once in a while, you may run into a bug when using Tessel. Please do report it! If you aren't sure where to report it (system overview coming soon!), please ask on the [Forums](http://forums.tessel.io) or just open an issue on this github repo (a Team Member will move the issue if necessary). It's much preferred to report an issue that may already exist rather than risk leaving the flaw unexposed.
 
 Opening an issue is as easy as following [this
 link](https://github.com/technicalmachine/tessel-project/issues) and filling out the fields.
@@ -42,7 +42,7 @@ If you haven't already, [fork the repository](https://help.github.com/articles/f
 Fix the bug or add the feature. Please make descriptive and focused git commits. Be sure to add relevant tests. If you have any questions, feel free to comment on the original Github issue and we'll get back to you as quickly as possible.
 
 ### 4. Make a Pull Request
-Once you've implemented and tested the change, open a [pull request][pull-requests] on your branch. If there is someone in the community that you would specifically like to have review your code, call them out on the pull request with a comment like `review? @johnnyman727` and that person will assist shortly. Otherwise, one of the project [Team Members](https://github.com/technicalmachine/tessel-project/blob/master/Governance/Moderating.md) will review the code and provide feedback.
+Once you've implemented and tested the change, open a [pull request][pull-requests] on your branch. If there is someone in the community that you would specifically like to have review your code, call them out on the pull request with a comment like `review? @johnnyman727` and that person will assist shortly. Otherwise, one of the project [Team Members](https://github.com/tessel/project/blob/master/GOVERNANCE.md#team-members) will review the code and provide feedback.
 
 ### 5. Merge the PR
 After the code has been reviewed, the Team Member may suggest several things to change about the contribution before it's ready. After the necessary changes have been made, the Team Member will accept the pull request and merge it into the master branch!
@@ -170,4 +170,4 @@ $ git push origin master
 
 ---
 
-Attribution: Parts of this guide are based on the io.js [Team Member Guide](https://github.com/iojs/io.js/blob/v1.x/TEAM-MEMBERS.md).
+Attribution: Parts of this guide are based on the io.js [COLLABORATOR_GUIDE](https://github.com/nodejs/io.js/blob/master/COLLABORATOR_GUIDE.md).

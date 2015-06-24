@@ -25,7 +25,7 @@ Learn more about how we [collaborate using Github](CONTRIBUTING.md):
 * [Pull Requests](CONTRIBUTING.md#pull-requests)
 * [Issue Triage](CONTRIBUTING.md#issue-triage)
 
-If you have questions, please make a post on [our forums](https://forums.tessel.io) and someone from the community will respond shortly. All contributors are expected to follow our [Code of Conduct](Conduct.md).
+If you have questions, please make a post on [our forums](https://forums.tessel.io) and someone from the community will respond shortly. All contributors are expected to follow our [Code of Conduct](CONDUCT.md).
 
 # Reach out
 

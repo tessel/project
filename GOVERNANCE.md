@@ -6,7 +6,7 @@ This document describes how the Tessel Project is organized.
 
 ## Organization
 
-The Tessel project follows the mission and philosophies outlined [here](/Mission.md).
+The Tessel project follows the mission and philosophies outlined [here](/MISSION.md).
 
 The Tessel project is organized in a tiered system. Members of the Steering Committee jointly govern and give high-level guidance to the project. Team Members, chosen by the Steering Committee, manage the day-to-day of community management and technical review. Anyone is welcome to be a Contributor and add to the discussion or to technical assets. These roles and the Project’s processes are outlined in more detail below.
 
@@ -28,7 +28,7 @@ The SC has final authority over and responsibility to this project including:
 
 Membership in the SC is expected to evolve over time according to the needs of the project. See the SC Membership section below for details.
 
-For the current list of SC members, see [Team](/Team.md).
+For the current list of SC members, see [Team](/TEAM.md).
 
 All assets of the Tessel project not managed by an outside foundation, including website and GitHub repository, are maintained by the SC and additional Team Members who are added by the SC on an ongoing basis.
 
@@ -41,7 +41,7 @@ Team Members are given:
 * Commit access to the project repos
 * Moderator status on the forums
 
-For the current list of Team Members, see [Team](/Team.md).
+For the current list of Team Members, see [Team](/TEAM.md).
 
 A guide for Team Members is maintained in [Team Members](/TEAM-MEMBERS.md).
 
@@ -53,7 +53,7 @@ Team Members may opt to elevate significant or controversial modifications, or m
 
 The Contribution Guide can be found in [the README](/README.md).
 
-Contributors, Team Members, and SC members are all governed by the [Code of Conduct](/Conduct.md) and can be banned for violations.
+Contributors, Team Members, and SC members are all governed by the [Code of Conduct](/CONDUCT.md) and can be banned for violations.
 
 ## SC Membership
 
@@ -84,7 +84,7 @@ Managing an area means that you are responsible to report back to the SC on the 
 
 ## SC Meetings
 
-The SC meets weekly on a Google Hangout. The meeting is run by a designated Moderator approved by the SC at the previous meeting. Notes should be submitted via PR to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes).
+The SC meets weekly on a Google Hangout. The meeting is run by a designated Moderator approved by the SC at the previous meeting. Notes should be submitted via PR to the [Meeting Minutes folder](/meetings).
 
 Items are added to the SC agenda which are considered contentious or are modifications of governance, contribution policy, SC membership, or release process.
 
@@ -92,7 +92,7 @@ Any community member or contributor can ask that something be added to the next 
 
 Prior to each SC meeting, the Moderator will share the Agenda with members of the SC. SC members can add any items they like to the agenda any time before the meeting begins. The Moderator and the SC cannot veto or remove items.
 
-The Moderator is responsible for summarizing the discussion of each agenda item and releasing it as a pull request to the [Meeting Minutes folder](/tree/master/Meeting%20Minutes) after the meeting.
+The Moderator is responsible for summarizing the discussion of each agenda item and releasing it as a pull request to the [Meeting Minutes folder](/meetings) after the meeting.
 
 Meeting attendance is restricted to members of the Steering Committee.
 

@@ -31,7 +31,7 @@ Guidelines:
 
 ## Managing feature requests and RFCs
 
-1. Discussion of major new features should take place on the [RFC repo](github.com/tessel/rfcs) for each particular addition. These can be proposed by anyone.
+1. Discussion of major new features should take place on the [RFC repo](https://github.com/tessel/rfcs) for each particular addition. These can be proposed by anyone.
 
 ## Maintaining strong communication with the community
 
@@ -48,4 +48,4 @@ TMs are encouraged to post new features or interesting facets of the project to 
 
 If a member of the community is unkind or disrespectful, TMs should encourage more constructive discourse by responding politely, kindly, and respectfully. Do not engage in a flame war.
 
-TMs should review the [Code of Conduct](LINK) and ensure that it is followed. Harassment/abuse/etc. should be brought to the attention of the SC as outlined in the Code of Conduct. The SC will take appropriate action to ban abusive members.
+TMs should review the [Code of Conduct](CONDUCT.md) and ensure that it is followed. Harassment/abuse/etc. should be brought to the attention of the SC as outlined in the Code of Conduct. The SC will take appropriate action to ban abusive members.
