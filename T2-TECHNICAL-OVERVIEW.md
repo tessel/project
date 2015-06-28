@@ -28,7 +28,7 @@ The VM is used primarily by Tessel developers who either don't have hardware ava
 The Tessel 2 compiler is another virtual machine with all the build tools needed to develope [native add-ons](https://nodejs.org/api/addons.html) to Node modules. These add-ons are built to perform faster or interact with lower level hardware than JS alone would provide. The compiler is being used, for example, to develop the [audio-video Node module](https://github.com/tessel/node-audiovideo) for webcams and recording audio from microphones.
     
 ### Device Related Code
-#####[Tessel 2 Operation System (OpenWRT)]((https://www.github.com/tessel/openwrt-tessel)
+#####[Tessel 2 Operation System (OpenWRT)](https://www.github.com/tessel/openwrt-tessel)
 The primary processpr of the Tessel 2 runs a very lightweight version of Linux called OpenWRT. OpenWRT provides all of the TCP/IP drivers, threading/schedule support, and runs Node, Rust or whatever other language you're using with Tessel 2. This repo contains all of the source files of the Tessel build of OpenWRT.
 
 #####[Tessel 2 Co-processor Firmware](https://www.github.com/tessel/t2-firmware)
