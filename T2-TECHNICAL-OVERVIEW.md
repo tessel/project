@@ -1,9 +1,20 @@
 # Tessel 2 Technical Overview
 This guide is intended to help code contributors understand how relevant system components of Tessel 2 work, where to find code and design files, and accelerate the development process through technical transparency. 
+- [T2 Github Repositories](#relevant-github-repositories)
+    - [Tools](#tessel-2-tools-) 
+    - [Device Code](#device-related-code)
+    - [Hardware Designs](#hardware-designs)
+    - [Module Code](#modules)
+- [System Architecture](#system-architecture)
+    - [Hardware Overview](#high-level-look-at-hardware)
+    - [Software Overview](#software-architecture)
+- [Code Deploy Walkthrough](#a-code-deploy-example)
+- [Getting Questions Answered](#questions-)
+- [Links to more information](#more-useful-links)
 
 ## Relevant Github Repositories
 
-### Tessel 2 Tools:
+###Tessel 2 Tools:
 You can find all of the Tessel repositories [on the organization page](https://github.com/tessel/) but this section provides some guidance over relevant Tessel 2-specific repositories.
 
 #####[Tessel 2 Command Line Interface](https://www.github.com/tessel/t2-cli) (CLI)
@@ -16,14 +27,14 @@ The VM is used primarily by Tessel developers who either don't have hardware ava
 #####[Tessel 2 Compiler](https://www.github.com/tessel/t2-compiler)
 The Tessel 2 compiler is another virtual machine with all the build tools needed to develope [native add-ons](https://nodejs.org/api/addons.html) to Node modules. These add-ons are built to perform faster or interact with lower level hardware than JS alone would provide. The compiler is being used, for example, to develop the [audio-video Node module](https://github.com/tessel/node-audiovideo) for webcams and recording audio from microphones.
     
-### Device Related Code:
-#####[Tessel 2 Operation System (OpenWRT)](https://www.github.com/tessel/openwrt-tessel)
+### Device Related Code
+#####[Tessel 2 Operation System (OpenWRT)]((https://www.github.com/tessel/openwrt-tessel)
 The primary processpr of the Tessel 2 runs a very lightweight version of Linux called OpenWRT. OpenWRT provides all of the TCP/IP drivers, threading/schedule support, and runs Node, Rust or whatever other language you're using with Tessel 2. This repo contains all of the source files of the Tessel build of OpenWRT.
 
 #####[Tessel 2 Co-processor Firmware](https://www.github.com/tessel/t2-firmware)
 Tessel 2 features a co-processor that manages a handful of responsibilities like routing USB communication from the CLI and the realtime operations on the GPIO pins of the two module ports. This repo contains not only the firmware that drives this microcontroller but hardware-related scripts that define the interface to other languages (like [tessel.js](https://www.github.com/tessel/t2-firmware/node/tessel.js) for Node scripts) so that the available hardware functionality doesn't get out of sync with what is exposed to the OpenWRT processor.
 
-### Hardware Design
+### Hardware Designs
 #####[Tessel 2 Hardware Design Files](https://www.github.com/tessel/t2-hardware)
 These are the actual schematic and assembly files for the Tessel 2 hardware. You can find information about the parts that are used and how they are all connected to each other. These files were created with [KiCad](http://www.kicad-pcb.org/display/KICAD/KiCad+EDA+Software+Suite), a completely open source electronics design tool.
 #####[Tessel Parts Library](https://github.com/tessel/tm-kicad-library)
@@ -72,7 +83,7 @@ The USB Port on the Atmel actually has three interfaces to the to the MediaTek:
 2. A direct connection to the SPI Flash bus of the MediaTek. This allows the Atmel to rewrite the OpenWRT image and helps prevent the Tessel from becoming bricked by any corruptions to OS.
 3. A SPI bus connection to the MediaTek for arbitrary data.
 
-### A Code Deploy Example
+## A Code Deploy Example
 A good method of understanding all the components of the system is to go through an example of running a simple script on Tessel 2:
 
 #### The user code to light up an LED
