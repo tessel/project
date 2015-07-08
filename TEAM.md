@@ -19,3 +19,4 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 * [**Linus Unnebäck**](https://twitter.com/linusu) | [LinusU](http://github.com/LinusU) | Email: [linus@folkdatorn.se](mailto:linus@folkdatorn.se)
 * [**István Szmozsánszky**](https://twitter.com/slsoftworks) | [Flaki](http://github.com/flaki) | Email: [flaki@mozilla.hu](mailto:flaki@mozilla.hu)
 * [**Kassandra Perch**](https://twitter.com/nodebotanist) | [nodebotanist](http://github.com/nodebotanist) | Email: [the@nodebotani.st](mailto:the@nodebotani.st)
+* [**Ravi Teja**](https://twitter.com/KTeza1) | [kteza1](http://github.com/kteza1) | Email: [k.teza1@gmail.com](mailto:k.teza1@gmail.com)
