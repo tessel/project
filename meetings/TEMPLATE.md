@@ -1,7 +1,12 @@
 # Meeting DATE
-
-Watch the meeting's Google Hangout at YOUTUBE LINK
+Moderator: NAME
+Notes: NAME
+Attending: NAME
 
 ## Agenda
 
+
 ## Notes
+
+
+## Action items
