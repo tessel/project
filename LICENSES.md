@@ -24,7 +24,7 @@ We recommend adding a footer to all READMEs, e.g.
 ```
 ## License
 
-CC-BY-SA and/or Solderpad at your option except where otherwise noted.
+CC-BY-SA and/or Solderpad, at your option.
 ```
 
 As well as including text files by the name `LICENSE-MIT`, `LICENSE-APACHE`, `LICENSE-CC`, or `LICENSE-SOLDERPAD` containing the plaintext version of the licenses linked above.
