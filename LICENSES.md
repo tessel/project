@@ -13,9 +13,9 @@ You can view each of these licenses in depth:
 
 * [The MIT License (MIT)](http://opensource.org/licenses/MIT) ([Explanation](https://tldrlegal.com/license/mit-license))
 * [Apache License, Version 2](http://opensource.org/licenses/Apache-2.0) ([Explanation](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)))
-* [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) ([Explanation](https://tldrlegal.com/license/creative-commons-attribution-sharealike-4.0-international-(cc-by-sa-4.0)))
-* [Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) ([Explanation](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal))
-* [The Solderpad Hardware License](http://solderpad.org/licenses/)
+* [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/legalcode.txt) ([Explanation](https://tldrlegal.com/license/creative-commons-attribution-sharealike-4.0-international-(cc-by-sa-4.0)))
+* [Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/legalcode.txt) ([Explanation](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal))
+* [The Solderpad Hardware License](view-source:http://solderpad.org/licenses/SHL-0.51/#APPENDIX.3A_How_to_apply_this_license_to_your_work)
 
 ## Displaying licenses
 
