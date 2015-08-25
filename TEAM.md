@@ -22,3 +22,4 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 * [**Ravi Teja**](https://twitter.com/KTeza1) | [kteza1](http://github.com/kteza1) | Email: [k.teza1@gmail.com](mailto:k.teza1@gmail.com)
 * [**Donovan Buck**](https://twitter.com/dtex) | [dtex](http://github.com/dtex) | Email: [donovan@donovan.bz](mailto:donovan@donovan.bz)
 * [**Will Prater**](https://twitter.com/wprater) | [wprater](http://github.com/wprater) | Email: [will@superformula.com](mailto:will@superformula.com)
+* [**Dave Nugent**](https://twitter.com/drnugent) | [drnugent](http://github.com/drnugent) | Email: [drnugent@gmail.com](mailto:drnugent@gmail.com)
