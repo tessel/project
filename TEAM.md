@@ -25,3 +25,4 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 * [**Dave Nugent**](https://twitter.com/drnugent) | [drnugent](http://github.com/drnugent) | Email: [drnugent@gmail.com](mailto:drnugent@gmail.com)
 * [**Kevin Sidwar**](https://twitter.com/KevinSidwar) | [sidwarkd](http://github.com/sidwarkd) | Email: [sidwarkd@hardlysoftware.com](mailto:sidwarkd@hardlysoftware.com)
 * [**Nicholas van de Walle**](https://twitter.com/mrn_ice) | [mrnice](http://github.com/mrnice) | Email: [nicholas@niceguys.co](mailto:nicholas@niceguys.co)
+* [**Amos King**](https://twitter.com/adkron) | [adkron](http://github.com/adkron) | Email: [amos.l.king@gmail.com](mailto:amos.l.king@gmail.com)
