@@ -27,4 +27,4 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 * [**Nicholas van de Walle**](https://twitter.com/mrn_ice) | [mrnice](http://github.com/mrnice) | Email: [nicholas@niceguys.co](mailto:nicholas@niceguys.co)
 * [**Daniel Bunzendahl**](http://www.bunzendahl.com) | [Student007](http://github.com/Student007) | Email: [db@bunzendahl.com](mailto:db@bunzendahl.com)
 * [**Amos King**](https://twitter.com/adkron) | [adkron](http://github.com/adkron) | Email: [amos.l.king@gmail.com](mailto:amos.l.king@gmail.com)
-* [**Julian Cheal**](http://github.com/juliancheal) | Email: [julian.cheal@gmail.com](mailto:julian.cheal@gmail.com)
+* [**Julian Cheal**](https://twitter.com/juliancheal) | [juliancheal](http://github.com/juliancheal) | Email: [julian.cheal@gmail.com](mailto:julian.cheal@gmail.com)
