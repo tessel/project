@@ -7,7 +7,7 @@ You've come to the right place. Read on.
 [Tessel 1 start experience](//tessel.io/start) | [Tessel 2 start experience](http://tessel.github.io/t2-start/)
 
 **Want to talk to the developers?**<br/>
-[Join the conversation on our community chat:](https://tessel-slack.herokuapp.com/)  <img src="https://tessel-slack.herokuapp.com/badge.svg"></a>
+[Join the conversation on our community chat: ![](https://tessel-slack.herokuapp.com/badge.svg)](https://tessel-slack.herokuapp.com/)
 
 ## What is this project?
 Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
