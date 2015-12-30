@@ -33,7 +33,7 @@ For the current list of SC members, see [Team](/TEAM.md).
 All assets of the Tessel project not managed by an outside foundation, including website and GitHub repository, are maintained by the SC and additional Team Members who are added by the SC on an ongoing basis.
 
 ## Team Members
-ssel
+
 The SC identifies individuals making significant and valuable contributions to the project and adds them as Team Members in the standard decision-making process (see Consensus Seeking Process below).
 
 Team Members are given:
