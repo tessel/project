@@ -30,3 +30,4 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 * [**Julian Cheal**](https://twitter.com/juliancheal) | [juliancheal](http://github.com/juliancheal) | Email: [julian.cheal@gmail.com](mailto:julian.cheal@gmail.com)
 * [**Francis Gulotta**](https://twitter.com/reconbot) | [reconbot](http://github.com/reconbot) | Email: [wizard@roborooter.com](mailto:wizard@roborooter.com)
 * [**Nick Hehr**](https://twitter.com/hipsterbrown) | [hipsterbrown](http://github.com/hipsterbrown) | Email: [headhipster@hipsterbrown.com](mailto:headhipster@hipsterbrown.com)
+* [**Rahul Ravikumar**](https://twitter.com/tikurahul) | [tikurahul](http://github.com/tikurahul) | Email: [tikurahul@gmail.com](mailto:tikurahul@gmail.com)
