@@ -31,3 +31,4 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 * [**Francis Gulotta**](https://twitter.com/reconbot) | [reconbot](http://github.com/reconbot) | Email: [wizard@roborooter.com](mailto:wizard@roborooter.com)
 * [**Nick Hehr**](https://twitter.com/hipsterbrown) | [hipsterbrown](http://github.com/hipsterbrown) | Email: [headhipster@hipsterbrown.com](mailto:headhipster@hipsterbrown.com)
 * [**Rahul Ravikumar**](https://twitter.com/tikurahul) | [tikurahul](http://github.com/tikurahul) | Email: [tikurahul@gmail.com](mailto:tikurahul@gmail.com)
+* [**Neil Kistner**](https://twitter.com/wyze) | [wyze](https://github.com/wyze) | Email: [neil.kistner@gmail.com](mailto:neil.kistner@gmail.com)
