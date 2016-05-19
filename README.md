@@ -4,7 +4,7 @@
 You've come to the right place. Read on.
 
 **Have a Tessel and looking for start instructions?** Go to:<br/>
-[Tessel 1 start experience](//tessel.io/start) | [Tessel 2 start experience](http://tessel.github.io/t2-start/)
+[Tessel 1 start experience](//tessel.io/t1-start) | [Tessel 2 start experience](//tessel.io/t2-start/)
 
 **Want to talk to the developers?**<br/>
 [Join the conversation on our community chat: ![](https://tessel-slack.herokuapp.com/badge.svg)](https://tessel-slack.herokuapp.com/)
@@ -29,6 +29,14 @@ This repository is for the organization and governance of the Tessel project as 
 
 
 ## How can I get involved?
+
+### Quick start
+
+1. [Join the team slack](//tessel-slack.herokuapp.com) and express your interest in contributing in the #community channel. You will receive a warm welcome.
+2. Read the [Technical Overview](https://github.com/tessel/onboarding/blob/master/T2-TECHNICAL-OVERVIEW.md) to see if any particular area of the project strikes your fancy.
+3. Back on Slack, let us know if there's something in particular you'd like to work on – we're happy to help you get set up! A general post in #community should work.
+
+### The (slightly) longer version
 
 By contributing to Tessel, you'll be a valued member of a passionate, diverse team and one of the pioneers of the burgeoning connected devices space. Here are some ways in which you can get involved:
 
