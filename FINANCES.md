@@ -13,6 +13,7 @@ Funds for the Tessel Project are generated in a few ways:
 
 The Tessel Project has no persons on payroll and is staffed entirely by volunteers. Funds must be approved for use by the Steering Committe. These are allocated for a few broad uses:
 
+1. Server hosting and domain names.
 1. The purchasing of hardware directly from manufacturing partners for use in hackathons, advertisements, conferences, or direct engagement with customers or team members.
 2. Equipment for the testing and validation of hardware. For example: micro USB cables, Tessels, and Tessel modules may be purchased to diagnose a specific hardware issue occurring under circumstances we need to recreate in-house. Another example is the purchase of logic or radio analyzers, which are usually shared within the team.
 3. In limited (one-off) quantities, we may purchase swag to reward volunteers.
