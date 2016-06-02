@@ -12,7 +12,7 @@ You've come to the right place. Read on.
 ## What is this project?
 Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
 
-One common misconception is that we're a company. We're not! We're just a collection of (unpaid) people who find it worthwhile to spend our time building towards the Tessel Project mission.
+One common misconception is that we're a company. We're not! We're just a collection of (unpaid) people who find it worthwhile to spend our time building towards the Tessel Project [mission](MISSION.md).
 
 ### What's a Tessel?
 Our website [tessel.io](https://tessel.io) should give you an overview of the hardware we build. You can see examples of things people have built on Tessel on our [projects page](https://tessel.io/projects).
