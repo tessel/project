@@ -8,7 +8,19 @@ This document describes how the Tessel Project is organized.
 
 The Tessel project follows the mission and philosophies outlined [here](/MISSION.md).
 
-The Tessel project is organized in a tiered system. Members of the Steering Committee jointly govern and give high-level guidance to the project. Team Members, chosen by the Steering Committee, manage the day-to-day of community management and technical review. Anyone is welcome to be a Contributor and add to the discussion or to technical assets. These roles and the Project’s processes are outlined in more detail below.
+The Tessel project is organized in a tiered system, as illustrated in this Venn diagram:
+
+![Tessel Project governance diagram](https://cloud.githubusercontent.com/assets/454690/16416494/bf9f8a7c-3d42-11e6-8508-550660559450.png)
+
+Steering Committee members are included in the pool of Team Members, who are all in the pool of Contributors, etc.
+
+Anyone is welcome to be a **Contributor** and add to the discussion or to technical assets.
+
+**Team Members**, chosen by the Steering Committee, manage the day-to-day of community management and technical review.
+
+Members of the **Steering Committee** jointly govern and give high-level guidance to the project.
+
+These roles and the Project’s processes are outlined in more detail below.
 
 ## Steering Committee
 
