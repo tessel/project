@@ -1,6 +1,6 @@
 # Finances
 
-The Tessel Project (as of May 2016) has its funds held by non-profit foundations. The funds are currently held by the Bocoup Foundation.
+Funds of the Tessel Project are held by the Bocoup Foundation.
 
 Funds for the Tessel Project are generated in a few ways:
 
