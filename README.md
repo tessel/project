@@ -25,9 +25,9 @@ This repository is for the organization and governance of the Tessel project as 
 
 ### What are the other important repos for Tessel?
 
-**Tessel 2:** [CLI](https://github.com/tessel/t2-cli) | [Firmware](https://github.com/tessel/t2-firmware) | [OpenWrt build](https://github.com/tessel/openwrt-tessel) | [Technical Overview](https://github.com/tessel/onboarding/blob/master/T2-TECHNICAL-OVERVIEW.md)
+**Tessel 2:** [CLI](https://github.com/tessel/t2-cli) | [Firmware](https://github.com/tessel/t2-firmware) | [OpenWrt build](https://github.com/tessel/openwrt-tessel) | [Technical Overview](https://github.com/tessel/onboarding/blob/master/T2-TECHNICAL-OVERVIEW.md) | [Hardware](https://github.com/tessel/t2-hardware)
 
-**Tessel 1:** [CLI](https://github.com/tessel/cli) | [Firmware](https://github.com/tessel/t1-firmware) | [Runtime](https://github.com/tessel/t1-runtime) | [Contribution Guide](https://github.com/tessel/t1-contribution-guide)
+**Tessel 1:** [CLI](https://github.com/tessel/cli) | [Firmware](https://github.com/tessel/t1-firmware) | [Runtime](https://github.com/tessel/t1-runtime) | [Contribution Guide](https://github.com/tessel/t1-contribution-guide) | [Hardware](https://github.com/tessel/hardware)
 
 
 ## How can I get involved?
