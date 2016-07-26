@@ -1,5 +1,7 @@
 # <img src="https://cloud.githubusercontent.com/assets/80639/7736468/c78ac686-fef8-11e4-9931-cc3ef8fd37a0.png" width="600" alt="The Tessel Project">
 
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md)
+
 **Looking for the entry point to the Tessel Project?**<br/>
 You've come to the right place. Read on.
 
