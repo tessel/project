@@ -1,5 +1,5 @@
-Code of Conduct
-===============
+Tessel Community Code of Conduct
+================================
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
