@@ -23,7 +23,7 @@ Bug reports should have a structure similar to (borrowed from rust-lang):
     Instead, this happened: <explanation>
 
     Backtrace: (copy from terminal)
-    
+
 ## Pull Requests
 
 Pull requests are the primary mechanism we use to improve Tessel. GitHub itself
@@ -42,7 +42,13 @@ If you haven't already, [fork the repository](https://help.github.com/articles/f
 Fix the bug or add the feature. Please make descriptive and focused git commits. Be sure to add relevant tests. If you have any questions, feel free to comment on the original Github issue and we'll get back to you as quickly as possible.
 
 ### 4. Make a Pull Request
-Once you've implemented and tested the change, open a [pull request][pull-requests] on your branch. If there is someone in the community that you would specifically like to have review your code, call them out on the pull request with a comment like `review? @johnnyman727` and that person will assist shortly. Otherwise, one of the project [Team Members](https://github.com/tessel/project/blob/master/GOVERNANCE.md#team-members) will review the code and provide feedback.
+Once you've implemented and tested the change, open a [pull request][pull-requests] on your branch.
+
+If there is someone in the community that you would specifically like to have review your code, call them out on the pull request with a comment like `review? @johnnyman727` and that person will assist shortly.
+
+Otherwise, one of the project [Team Members](https://github.com/tessel/project/blob/master/TEAM-MEMBERS.md) will review the code and provide feedback.
+
+You may also wish to post to the #reviews channel on [Tessel Slack](https://tessel-slack.herokuapp.com/).
 
 ### 5. Merge the PR
 After the code has been reviewed, the Team Member may suggest several things to change about the contribution before it's ready. After the necessary changes have been made, the Team Member will accept the pull request and merge it into the master branch!
@@ -68,105 +74,6 @@ Additionally:
 
 - Double check PR's to make sure the person's _full name_ and email address are correct before merging.
 - Except when updating dependencies, all commits should be self-contained.  Meaning, every commit should pass all tests. This makes it much easier when bisecting to find a breaking change.
-
-### Technical HOWTO for PRs
-
-_Optional:_ ensure that you are not in a borked `am`/`rebase` state
-
-```text
-$ git am --abort
-$ git rebase --abort
-```
-
-Checkout proper target branch
-
-```text
-$ git checkout v1.x
-```
-
-Update the tree
-
-```text
-$ git fetch origin
-$ git merge --ff-only origin/v1.x
-```
-
-Apply external patches
-
-```text
-$ curl https://github.com/iojs/io.js/pull/xxx.patch | git am --whitespace=fix
-```
-
-Check and re-review the changes
-
-```text
-$ git diff origin/master
-```
-
-Check number of commits and commit messages
-
-```text
-$ git log origin/master
-```
-
-If there are multiple commits that relate to the same feature or one with a feature and separate with a test for that feature - you'll need to squash them (or strictly speaking `fixup`).
-
-```text
-$ git rebase -i origin/master
-```
-
-This will open a screen like this (in the default shell editor):
-
-```text
-pick 6928fc1 crypto: add feature A
-pick 8120c4c add test for feature A
-pick 51759dc feature B
-pick 7d6f433 test for feature B
-
-# Rebase f9456a2..7d6f433 onto f9456a2
-#
-# Commands:
-#  p, pick = use commit
-#  r, reword = use commit, but edit the commit message
-#  e, edit = use commit, but stop for amending
-#  s, squash = use commit, but meld into previous commit
-#  f, fixup = like "squash", but discard this commit's log message
-#  x, exec = run command (the rest of the line) using shell
-#
-# These lines can be re-ordered; they are executed from top to bottom.
-#
-# If you remove a line here THAT COMMIT WILL BE LOST.
-#
-# However, if you remove everything, the rebase will be aborted.
-#
-# Note that empty commits are commented out
-```
-
-Replace a couple of `pick`s with `fixup` to squash them into a previous commit:
-
-```text
-pick 6928fc1 crypto: add feature A
-fixup 8120c4c add test for feature A
-pick 51759dc feature B
-fixup 7d6f433 test for feature B
-```
-
-Replace `pick` with `reword` to change the commit message:
-
-```text
-reword 6928fc1 crypto: add feature A
-fixup 8120c4c add test for feature A
-reword 51759dc feature B
-fixup 7d6f433 test for feature B
-```
-
-Save the file and close the editor, you'll be asked to enter new commit message for that commit, and everything else should go smoothly. Note that this is a good moment to fix incorrect commit logs, ensure that they are properly formatted, and add `Reviewed-By` line.
-
-Time to push it:
-
-```text
-$ git push origin master
-```
 
 ---
 
