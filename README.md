@@ -1,15 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/80639/7736468/c78ac686-fef8-11e4-9931-cc3ef8fd37a0.png" width="600" alt="The Tessel Project">
 
-[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md)
-
-**Looking for the entry point to the Tessel Project?**<br/>
-You've come to the right place. Read on.
-
-**Have a Tessel and looking for start instructions?** Go to:<br/>
-[Tessel 1 start experience](//tessel.io/t1-start) | [Tessel 2 start experience](//tessel.io/t2-start/)
-
-**Want to talk to the developers?**<br/>
-[Join the conversation on our community chat: ![](https://tessel-slack.herokuapp.com/badge.svg)](https://tessel-slack.herokuapp.com/)
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md) [![](https://tessel-slack.herokuapp.com/badge.svg)](https://tessel-slack.herokuapp.com/)
 
 ## What is this project?
 Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
@@ -25,12 +16,7 @@ Tessel is about designing intuitive and accessible hardware development experien
 ### What can I find in this repo?
 This repository is for the organization and governance of the Tessel project as a whole. For code, see the [Tessel GitHub organization](https://github.com/tessel).
 
-### What are the other important repos for Tessel?
-
-**Tessel 2:** [CLI](https://github.com/tessel/t2-cli) | [Firmware](https://github.com/tessel/t2-firmware) | [OpenWrt build](https://github.com/tessel/openwrt-tessel) | [Technical Overview](https://github.com/tessel/onboarding/blob/master/T2-TECHNICAL-OVERVIEW.md) | [Hardware](https://github.com/tessel/t2-hardware)
-
-**Tessel 1:** [CLI](https://github.com/tessel/cli) | [Firmware](https://github.com/tessel/t1-firmware) | [Runtime](https://github.com/tessel/t1-runtime) | [Contribution Guide](https://github.com/tessel/t1-contribution-guide) | [Hardware](https://github.com/tessel/hardware)
-
+For an introduction to the project's organization and key repos, check out the [Technical Overview](https://tessel.gitbooks.io/t2-docs/content/Debugging/Technical_Overview.html).
 
 ## How can I get involved?
 
