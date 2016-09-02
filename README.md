@@ -23,7 +23,7 @@ For an introduction to the project's organization and key repos, check out the [
 ### Quick start
 
 1. [Join the team slack](//tessel-slack.herokuapp.com) and express your interest in contributing in the #community channel. You will receive a warm welcome.
-2. Read the [Technical Overview](https://github.com/tessel/onboarding/blob/master/T2-TECHNICAL-OVERVIEW.md) to see if any particular area of the project strikes your fancy.
+2. Read the [Technical Overview](https://tessel.gitbooks.io/t2-docs/content/Debugging/Technical_Overview.html) to see if any particular area of the project strikes your fancy.
 3. Back on Slack, let us know if there's something in particular you'd like to work on – we're happy to help you get set up! A general post in #community should work.
 
 ### The (slightly) longer version
