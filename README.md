@@ -20,7 +20,7 @@ For an introduction to the project's organization and key repos, check out the [
 
 # Current goals
 
-On September 2, 2016, the Steering Committee set year-long goals. They are organized into two overarching goals, each with several supporting goals:
+The Tessel Project has these goals for September 2017 (our next Tessel Summit). They are organized into two overarching themes, each with several supporting tasks:
 
 1. **Grow the community for development, inclusion, accessibility**
   * [ ] Build effective working groups that can complete their tasks with measurable results. Celebrate the work of each of the working groups as goals are accomplished
@@ -35,7 +35,7 @@ On September 2, 2016, the Steering Committee set year-long goals. They are organ
 
 ## Working groups
 
-To enable the above goals, the Tessel Project is establishing working groups.
+The Tessel Project forms working groups to accomplish our year-long goals.
 
 ### What's a working group?
 * A working group (WG) is a group of people working toward a defined, accomplishable goal.
@@ -49,11 +49,11 @@ To enable the above goals, the Tessel Project is establishing working groups.
 * **Tessel Memory WG**: make larger projects deployable on T2, possibly as a 2.1 Tessel hardware
 
 ### How do we implement these WGs?
-We don't want to kick off all 5 at once, so we've picked 2 as pilots: Website WG and Learning WG. These two are selected because they are reasonably well defined, accessible, and don't require specialized skills.
+We have two pilot working groups: Website WG and Learning WG. These two are selected because they are reasonably well defined, accessible, and don't require specialized skills.
 
-We will bring up the other WGs as we become comfortable with the process.
+(Other WGs will be formed as we learn from working group progress and as interested contributors come on board. Reach out to us if you're interested!)
 
-# How can I get involved?
+# How can I get involved with the Tessel Project?
 
 ## Quick start
 
