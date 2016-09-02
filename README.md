@@ -46,10 +46,10 @@ To enable the above goals, the Tessel Project is establishing working groups.
 * **Rust WG**: Get Rust to 1st class support
 * **Reach WG**: ship Reach
 * **Learning WG**: investigate user needs for production & write a guide on how to take a Tessel project to product scale. Also build and document GPIO/GUTS (Great Uses for Tessel in Stuff e.g. hacking a production system) projects
-* **Tessel space WG**: make larger projects deployable on T2, possibly as a 2.1 Tessel hardware
+* **Tessel Memory WG**: make larger projects deployable on T2, possibly as a 2.1 Tessel hardware
 
 ### How do we implement these WGs?
-We don't want to kick off all 5 at once, so we've picked 2 as pilots: website WG and Learning WG. These two are selected because they are reasonably well defined, accessible, and don't require specialized skills.
+We don't want to kick off all 5 at once, so we've picked 2 as pilots: Website WG and Learning WG. These two are selected because they are reasonably well defined, accessible, and don't require specialized skills.
 
 We will bring up the other WGs as we become comfortable with the process.
 
