@@ -42,7 +42,7 @@ The Tessel Project forms working groups to accomplish our year-long goals.
 * WGs create some output measure of progress on a regular (every 1-2 weeks) schedule, whether that's meeting notes or something else
 
 ### What working groups do we need to accomplish this year's goals?
-* **Website WG**:  Create a better website for what we are & what we plan to be based on this year’s goals
+* **Website WG**:  Create a better website for what we are & what we plan to be based on this year’s goals. [Learn more/get involved](https://github.com/tessel/tessel.io/issues/102)
 * **Rust WG**: Get Rust to 1st class support
 * **Reach WG**: ship Reach
 * **Learning WG**: investigate user needs for production & write a guide on how to take a Tessel project to product scale. Also build and document GPIO/GUTS (Great Uses for Tessel in Stuff e.g. hacking a production system) projects. [Learn more/get involved](https://github.com/tessel/project/issues/207)
