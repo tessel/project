@@ -32,3 +32,4 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 * [**Rahul Ravikumar**](https://twitter.com/tikurahul) | [tikurahul](http://github.com/tikurahul) | Email: [tikurahul@gmail.com](mailto:tikurahul@gmail.com)
 * [**Neil Kistner**](https://twitter.com/wyze) | [wyze](https://github.com/wyze) | Email: [neil.kistner@gmail.com](mailto:neil.kistner@gmail.com)
 * [**Jon McKay**](http://twitter.com/jonmckay) | [johnnyman727](http://github.com/johnnyman727) | Email: [jon@technical.io](mailto:johnnyman727@gmail.com)
+* [**Daniel Buentello**](https://twitter.com/danielbuentell0) | [dbuentello](https://github.com/dbuentello) | Email: [daniel.vbuentello@gmail.com](mailto:daniel.vbuentello@gmail.com)
