@@ -42,10 +42,10 @@ The Tessel Project forms working groups to accomplish our year-long goals.
 * WGs create some output measure of progress on a regular (every 1-2 weeks) schedule, whether that's meeting notes or something else
 
 ### What working groups do we need to accomplish this year's goals?
-* **Website WG**:  Create a better website for what we are & what we plan to be based on this year’s goals. [Learn more/get involved](https://github.com/tessel/tessel.io/issues/102). On Tessel's Slack, join #website-wg
-* **Rust WG**: Get Rust to 1st class support. On Tessel's Slack, join #rust-wg
-* **Reach WG**: ship Reach. On Tessel's Slack, join #reach-wg
-* **Production WG**: investigate user needs for production & write a guide on how to take a Tessel project to product scale. Also build and document GPIO/GUTS (Great Uses for Tessel in Stuff e.g. hacking a production system) projects. [Learn more/get involved](https://github.com/tessel/project/issues/207). On Tessel's Slack, join #production-wg
+* **[Website WG](https://github.com/tessel/tessel.io/issues/102)**:  Create a better website for what we are & what we plan to be based on this year’s goals. [Learn more/get involved](https://github.com/tessel/tessel.io/issues/102). On Tessel's Slack, join #website-wg
+* **[Rust WG](https://github.com/tessel/tessel-rust)**: Get the Rust language to 1st class support on Tessel. On Tessel's Slack, join #rust-wg
+* **[Reach WG](https://github.com/tessel/project/issues/142)**: ship Reach, a low-power sensor node for Tessel ecosystems. On Tessel's Slack, join #reach-wg
+* **[Production WG](https://github.com/tessel/project/issues/207)**: investigate user needs for production & write a guide on how to take a Tessel project to product scale. Also build and document GPIO/GUTS (Great Uses for Tessel in Stuff e.g. hacking a production system) projects. [Learn more/get involved](https://github.com/tessel/project/issues/207). On Tessel's Slack, join #production-wg
 * **Tessel Memory WG**: make larger projects deployable on T2, possibly as a 2.1 Tessel hardware
 
 # How can I get involved with the Tessel Project?
