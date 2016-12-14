@@ -3,7 +3,7 @@
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md) [![](https://tessel-slack.herokuapp.com/badge.svg)](https://tessel-slack.herokuapp.com/)
 
 ## What is this project?
-Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
+Tessel is a completely open source and community-driven IoT and robotics development platform. It encompasses development boards, hardware module add-ons, and the software that runs on them.
 
 One common misconception is that we're a company. We're not! We're just a collection of (unpaid) people who find it worthwhile to spend our time building towards the Tessel Project [mission](MISSION.md).
 
