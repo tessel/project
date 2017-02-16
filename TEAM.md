@@ -4,7 +4,7 @@ Anyone is welcome to contribute! Get started [here](https://github.com/tessel/pr
 
 ## [Steering Committee Members](/GOVERNANCE.md)
 
-* [**Kelsey Breseman**](http://twitter.com/selkeymoonbeam/) | [frijol](http://github.com/frijol) | Email: [kelsey@technical.io](mailto:kelsey@technical.io)
+* [**Kelsey Breseman**](http://twitter.com/ifoundtheme) | [frijol](http://github.com/frijol) | Email: [kelsey@tessel.io](mailto:kelsey@technical.io)
 * [**Nick Hehr**](https://twitter.com/hipsterbrown) | [hipsterbrown](http://github.com/hipsterbrown) | Email: [headhipster@hipsterbrown.com](mailto:headhipster@hipsterbrown.com)
 * [**Tim Ryan**](http://twitter.com/timcameronryan/) | [tcr](http://github.com/tcr) | Email: [tim@technical.io](mailto:tim@technical.io)
 * [**Rick Waldron**](http://twitter.com/rwaldron/) | [rwaldron](http://github.com/rwaldron) | Email: [waldron.rick@gmail.com](mailto:waldron.rick@gmail.com)
