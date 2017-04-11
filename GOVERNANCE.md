@@ -48,14 +48,9 @@ All assets of the Tessel project not managed by an outside foundation, including
 
 The SC identifies individuals making significant and valuable contributions to the project and adds them as Team Members in the standard decision-making process (see Consensus Seeking Process below).
 
-Team Members are given:
-
-* Commit access to the project repos
-* Moderator status on the forums
+A full description of a Team Member and their responsibilities and privileges is kept in [Team Members](/TEAM-MEMBERS.md)
 
 For the current list of Team Members, see [Team](/TEAM.md).
-
-A guide for Team Members is maintained in [Team Members](/TEAM-MEMBERS.md).
 
 ## Contributors
 

@@ -2,6 +2,26 @@
 
 This guide is for anyone interested in contributing to Tessel.
 
+## I want to contribute! What do I do?
+1. **If you haven't already, get started with your Tessel 2!** Go to the [Tessel 2 start page](http://tessel.github.io/t2-start/) and try it out! This should get you set up with using the CLI, connecting to Wifi, and using modules. Take note of anything confusing or not-working and make issues for them on [Tessel 2 Start's issue tracker](https://github.com/tessel/t2-start/issues). These make great first contributions!
+
+1. **Get to know the team.** Our primary communication channel is [Slack](https://tessel-slack.herokuapp.com/). We recommend downloading the app and keeping it open while you're working on Tessel; it's very useful for asking quick questions. Important channels:
+
+  * #engineering for most of your technical questions
+  * #reviews to ask for a code review
+  * #events-speaking if you're interested in giving conference talks
+
+1. **Get to know T2's tech stack and repos.** You'll be much more equipped to make meaningful contributions if you read the [Tessel 2 Technical Overview](https://tessel.gitbooks.io/t2-docs/content/debugging/Technical_Overview.html). This guide goes over the main repositories, where you can find relevant code and design files, and how the Tessel 2 system architecture works.
+
+1. **Find a mentor.** On Tessel's slack, make a post in the #community channel and ask for help finding something to work on. Alternately, reach out to any [Team Member](https://github.com/tessel/project/blob/master/TEAM.md) via email and ask them if they will help you get started contributing to the Tessel Project.
+
+1. **Get to know your mentor.** Once you're part of the team and you have a high-level understanding of how Tessel 2 works, get in touch with the person that introduced you to the project and set up a time to chat. This informal call will help you understand the current state of the project, where your help is needed most, and how you can get started.
+
+1. **Do something!** Your mentor can help you find something to work on, or look for the label `contribution-starter` on any Tessel repo. Pick something, ask questions, and get started! You don't have to completely solve an issue in order to contribute– post anything you learn on the issue in order to help other contributors.
+
+---
+# Contribution Guidelines
+
 ## Feature Requests
 To request a change in any components of the Tessel ecosystem such as adding a command line interface option, adding support for various drivers in the kernel, or suggesting a new piece of hardware, please create an RFC. Detailed instructions can be found on [the RFC repo](https://github.com/tessel/rfcs).
 
@@ -56,25 +76,3 @@ After the code has been reviewed, the Team Member may suggest several things to 
 ## Issue Triage
 
 The project Team Members may not have time to investigate every issue. If you find an older issue that nobody has commented on, it would be very appreciated if you could reproduce the issue, make a simple test case if necessary, and potentially suggest the root cause and/or solutions.
-
-## Landing Pull Requests
-
-Team Members are permitted to merge pull requests submitted to any Tessel repository.
-
-When merging a pull request, you should modify the original commit message to include additional meta information regarding the change process:
-
-- A `Reviewed-By: Name <email>` line for yourself and any other Team Members who have reviewed the change.
-- A `PR-URL:` line that references the full GitHub URL of the original pull request being merged so it's easy to trace a commit back to the  conversation that led up to that change.
-- A `Fixes: X` line, where _X_ is either includes the full GitHub URL for an issue, and/or the hash and commit message if the commit fixes a bug in a previous commit. Multiple `Fixes:` lines may be added if appropriate.
-
-See the commit log for examples such as
-[this one](https://github.com/iojs/io.js/commit/b636ba8186) if unsure exactly how to format your commit messages.
-
-Additionally:
-
-- Double check PR's to make sure the person's _full name_ and email address are correct before merging.
-- Except when updating dependencies, all commits should be self-contained.  Meaning, every commit should pass all tests. This makes it much easier when bisecting to find a breaking change.
-
----
-
-Attribution: Parts of this guide are based on the io.js [COLLABORATOR_GUIDE](https://github.com/nodejs/io.js/blob/master/COLLABORATOR_GUIDE.md).
