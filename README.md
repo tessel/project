@@ -91,3 +91,74 @@ Get involved with our community in any way you are interested:
 * [Code of Conduct](CONDUCT.md) for the Tessel community
 * [Governance Structure](GOVERNANCE.md) and [Membership](TEAM.md) of the Steering Committee
 * [Meeting Notes](meetings/)
+
+## Backers
+
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/tessel#backer)]
+
+<a href="https://opencollective.com/tessel/backer/0/website" target="_blank"><img src="https://opencollective.com/tessel/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/1/website" target="_blank"><img src="https://opencollective.com/tessel/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/2/website" target="_blank"><img src="https://opencollective.com/tessel/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/3/website" target="_blank"><img src="https://opencollective.com/tessel/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/4/website" target="_blank"><img src="https://opencollective.com/tessel/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/5/website" target="_blank"><img src="https://opencollective.com/tessel/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/6/website" target="_blank"><img src="https://opencollective.com/tessel/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/7/website" target="_blank"><img src="https://opencollective.com/tessel/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/8/website" target="_blank"><img src="https://opencollective.com/tessel/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/9/website" target="_blank"><img src="https://opencollective.com/tessel/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/10/website" target="_blank"><img src="https://opencollective.com/tessel/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/11/website" target="_blank"><img src="https://opencollective.com/tessel/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/12/website" target="_blank"><img src="https://opencollective.com/tessel/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/13/website" target="_blank"><img src="https://opencollective.com/tessel/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/14/website" target="_blank"><img src="https://opencollective.com/tessel/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/15/website" target="_blank"><img src="https://opencollective.com/tessel/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/16/website" target="_blank"><img src="https://opencollective.com/tessel/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/17/website" target="_blank"><img src="https://opencollective.com/tessel/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/18/website" target="_blank"><img src="https://opencollective.com/tessel/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/19/website" target="_blank"><img src="https://opencollective.com/tessel/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/20/website" target="_blank"><img src="https://opencollective.com/tessel/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/21/website" target="_blank"><img src="https://opencollective.com/tessel/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/22/website" target="_blank"><img src="https://opencollective.com/tessel/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/23/website" target="_blank"><img src="https://opencollective.com/tessel/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/24/website" target="_blank"><img src="https://opencollective.com/tessel/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/25/website" target="_blank"><img src="https://opencollective.com/tessel/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/26/website" target="_blank"><img src="https://opencollective.com/tessel/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/27/website" target="_blank"><img src="https://opencollective.com/tessel/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/28/website" target="_blank"><img src="https://opencollective.com/tessel/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/backer/29/website" target="_blank"><img src="https://opencollective.com/tessel/backer/29/avatar.svg"></a>
+
+
+## Sponsors
+
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/tessel#sponsor)]
+
+<a href="https://opencollective.com/tessel/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/1/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/2/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/3/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/4/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/5/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/6/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/7/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/8/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/9/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/10/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/11/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/11/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/12/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/12/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/13/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/13/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/14/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/14/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/15/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/15/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/16/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/16/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/17/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/17/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/18/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/18/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/19/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/19/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/20/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/20/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/21/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/21/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/22/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/22/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/23/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/23/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/24/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/24/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/25/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/25/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/26/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/26/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/27/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/27/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/28/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/28/avatar.svg"></a>
+<a href="https://opencollective.com/tessel/sponsor/29/website" target="_blank"><img src="https://opencollective.com/tessel/sponsor/29/avatar.svg"></a>
