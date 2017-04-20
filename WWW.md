@@ -17,38 +17,38 @@ We have a large Dokku instance for setting up new pages. It can run containers a
 
 Login to the server `ssh root@dokku.tessel.io`.
 
-To create a new app:
+To create a new app, run this command on the server:
 
 ```
-dokku apps:create NEWAPP
+server> dokku apps:create NEWAPP
 ```
 
 On your local computer, add it as a remote to your git repo:
 
 ```
-git remote add dokku dokku@dokku.tessel.io:NEWAPP
-git push dokku master
+local> git remote add dokku dokku@dokku.tessel.io:NEWAPP
+local> git push dokku master
 ```
 
 You'll see the following:
 
 ```
-...
-=====> Application deployed:
-       http://107.170.4.104:<port number>
-
-To dokku@107.170.4.104:NEW_APP
-   xxxxxx..xxxxxx  master -> master
-Branch master set up to track remote branch master from dokku.
+server> ...
+server> =====> Application deployed:
+server>        http://dokku.tessel.io:<port number>
+server> 
+server> To dokku@dokku.tessel.io:NEW_APP
+server>    xxxxxx..xxxxxx  master -> master
+server> Branch master set up to track remote branch master from dokku.
 ```
 
 If you want to view your app *now*, you'll have to expose the port directly on the server:
 
 ```
-ufw allow <port number>
+server> ufw allow <port number>
 ```
 
-Then you can open `http://107.170.4.104:<port number>` in your browser.
+Then you can open `http://dokku.tessel.io:<port number>` in your local web browser.
 
 ### Adding a .tessel.io subdomain
 
@@ -64,14 +64,14 @@ Use Route 53 to modify this. Create a new record under the "tessel.io" hosted zo
 You can now enable the subdomain using this command on the Dokku server:
 
 ```
-dokku domains:add NEWAPP NEWAPP.tessel.io
+server> dokku domains:add NEWAPP NEWAPP.tessel.io
 ```
 
 You can enable HTTPS very simply with the following:
 
 ```
-dokku config:set --no-restart NEWAPP DOKKU_LETSENCRYPT_EMAIL=team@tessel.io
-dokku letsencrypt NEWAPP
+server> dokku config:set --no-restart NEWAPP DOKKU_LETSENCRYPT_EMAIL=team@tessel.io
+server> dokku letsencrypt NEWAPP
 ```
 
 Now all HTTP requests will automatically redirect. And you're done!
@@ -81,5 +81,5 @@ Now all HTTP requests will automatically redirect. And you're done!
 Look up logs with Dokku while logged into the server:
 
 ```
-dokku logs NEWAPP
+server> dokku logs NEWAPP
 ```
