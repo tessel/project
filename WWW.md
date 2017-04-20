@@ -52,7 +52,12 @@ Then you can open `http://107.170.4.104:<port number>` in your browser.
 
 ### Adding a .tessel.io subdomain
 
-Use Route 53 to modify this. Create a new A record under the "tessel.io" hosted zone, make the subdomain named what you want. Set its value to "107.170.4.104", and TTL to 5m or 1m.
+Use Route 53 to modify this. Create a new record under the "tessel.io" hosted zone with these properties:
+
+* Subdomain field should be "NEWAPP"
+* CNAME record
+* Value set to "dokku.tessel.io"
+* TTL to 5m or 1m.
 
 **NOTE:** It's preferred that subdomains and the name of the Dokku app match exactly.
 
