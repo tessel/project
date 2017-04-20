@@ -92,6 +92,10 @@ Get involved with our community in any way you are interested:
 * [Governance Structure](GOVERNANCE.md) and [Membership](TEAM.md) of the Steering Committee
 * [Meeting Notes](meetings/)
 
+# Contribute
+
+Tessel is in part funded by contributions through [Open Collective](https://opencollective.com/tessel).
+
 ## Backers
 
 Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/tessel#backer)]
