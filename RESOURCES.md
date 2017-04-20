@@ -25,13 +25,11 @@ A list of digital accounts, legal, physical, and financial resources owned by th
 
 * **Github:** Used for code, collaboration, bug filing, and fun.
 * **Mitro:** This is a shared account for controlling passwords for all other accounts.
-* **Hangouts:** Venue for recorded Steering Committee meetings.
-* **IRC:** Tessel congregates on the #tessel channel on Freenode. Members of the SC are labeled Collaborators.
+* **Hangouts:** Venue for Steering Committee meetings.
 
 ## Social Media
 
-* **Twitter:** General tech audience. Post any Tessel-specific news or relevant IoT news, as well as ongoing events (livetweeting). Promote news from followers that is Tessel-related. Directly communicate with people who engage.
-* **Vine:** Short, amusing videos for engagement. Showcasing demos, ongoing events, and projects. Reshared to Twitter.
+* **Twitter:** General tech audience. Post any Tessel-specific news or relevant IoT news, as well as ongoing events (livetweeting). Showcasing demos, ongoing events, and projects. Promote news from followers that is Tessel-related. Directly communicate with people who engage.
 * **Facebook:** General tech audience. Post any Tessel-specific news or relevant IoT news, as well as events.
 * **Instagram:** Short, amusing pictures showcasing projects or team. Reshare to Facebook.
 * **YouTube:** Tutorials, recordings of meetings, and presentations. Shared to Twitter / Facebook.
