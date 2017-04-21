@@ -6,12 +6,22 @@ We use the following major services:
 2. Dokku on DigitalOcean for most services
 3. Bocoup infrastructure for tessel.io and Forums
 
+## Amazon
+
+We use Route 53 for DNS and domain renewal.
+
+We use S3 and Cloudfront for serving files and builds.
+
+Our default region is us-east-2 (N. Virginia)
+
 ## Dokku
 
 We have a large Dokku instance for setting up new pages. It can run containers and Heroku buildpacks, which is rad. You'll need two things:
 
 1. Access to dokku.tessel.io via SSH
 2. Access to AWS via our login credentials
+
+See <http://github.com/tessel/www-etc> for some of the services we run there.
 
 ### Setting up a new app
 
