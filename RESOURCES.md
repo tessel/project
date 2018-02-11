@@ -7,11 +7,12 @@ A list of digital accounts, legal, physical, and financial resources owned by th
 ## Legal
 
 * Trademarks
-* Contracts with manufacturers
+* Contracts with Seeed
+* Membership in Bocoup Foundation
 
 ## Physical
 
-* Inventory: tracked at some physical location
+* Inventory: held and owned by Seeed for sale; owned by the Project and held in Whiplash for development purposes
 * Physical test server: Rampart and friends
 
 ## Financial
@@ -24,8 +25,9 @@ A list of digital accounts, legal, physical, and financial resources owned by th
 ## Software
 
 * **Github:** Used for code, collaboration, bug filing, and fun.
-* **Mitro:** This is a shared account for controlling passwords for all other accounts.
-* **Hangouts:** Venue for recorded Steering Committee meetings.
+* **Slack:** Hybrid in-team collaboration tool and external (social media-esque) tool for connecting with other interested parties
+* **LastPass:** This is a shared account for controlling passwords for all other accounts.
+* **Hangouts:** Venue for recorded Steering Committee meetings (meeting minutes go to Github).
 
 ## Social Media
 
