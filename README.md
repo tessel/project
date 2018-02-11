@@ -50,6 +50,10 @@ The Tessel Project forms working groups to accomplish our year-long goals.
 
 # How can I get involved with the Tessel Project?
 
+## Quickest start
+
+Find an issue tagged ["contribution-starter"](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Acontribution-starter+user%3Atessel) and start working!
+
 ## Quick start
 
 1. [Join the team slack](//tessel-slack.herokuapp.com) and express your interest in contributing in the #community channel. You will receive a warm welcome.
