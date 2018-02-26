@@ -64,6 +64,8 @@ Fix the bug or add the feature. Please make descriptive and focused git commits.
 ### 4. Make a Pull Request
 Once you've implemented and tested the change, open a [pull request][pull-requests] on your branch.
 
+Convention for Tessel is to open a pull request with "not ready" or "work in progress" in the title as you begin work and link to it in the issue. That lets the maintainers see the work developing– and is useful in the structure of an open source project. Then, when the pull request is ready, take "not ready" out of the title and ask for a review.
+
 If there is someone in the community that you would specifically like to have review your code, call them out on the pull request with a comment like `review? @johnnyman727` and that person will assist shortly.
 
 Otherwise, one of the project [Team Members](https://github.com/tessel/project/blob/master/TEAM-MEMBERS.md) will review the code and provide feedback.
