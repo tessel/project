@@ -71,6 +71,16 @@ Use Route 53 to modify this. Create a new record under the "tessel.io" hosted zo
 
 **NOTE:** It's preferred that subdomains and the name of the Dokku app match exactly.
 
+The following services are hosted on Dokku:
+
+*docs.tessel.io
+*doc.tessel.io
+*scbot.tessel.io
+*slackin.tessel.io
+*start.tessel.io
+*t1-start.tessel.io
+*crash-reporter.tessel.io
+
 You can now enable the subdomain using this command on the Dokku server:
 
 ```
