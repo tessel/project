@@ -115,4 +115,4 @@ The following web services are hosted on Dokku:
 
 The following web service is hosted on Google App Engine:
 
-*crash-reporter.tessel.io
+* crash-reporter.tessel.io
