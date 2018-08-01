@@ -93,3 +93,26 @@ Look up logs with Dokku while logged into the server:
 ```
 server> dokku logs NEWAPP
 ```
+
+## Hosted Web Services
+
+The following web services are hosted on Dokku:
+
+* docs.tessel.io
+
+* doc.tessel.io
+
+* scbot.tessel.io
+
+* t1-start.tessel.io
+
+* highfive.tessel.io
+
+* slackin.tessel.io
+
+* start.tessel.io
+
+
+The following web service is hosted on Google App Engine:
+
+* crash-reporter.tessel.io
