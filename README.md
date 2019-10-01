@@ -20,17 +20,17 @@ For an introduction to the project's organization and key repos, check out the [
 
 # Current goals
 
-The Tessel Project has these goals for September 2017 (our next Tessel Summit). They are organized into two overarching themes, each with several supporting tasks:
+The Tessel Project has the following goals for September 2017 (our next Tessel Summit). They are organized into two overarching themes, each with several supporting tasks:
 
 1. **Grow the community to increase contributions and encourage both inclusion and accessibility to newcomers.**
-  * [ ] Build effective working groups that can complete their tasks with measurable results. Celebrate the work of each of the working groups as goals are accomplished
+  * [ ] Build effective working groups that can complete their tasks with measurable results. Celebrate the work of each working groups as the goals are accomplished
   * [ ] Upgrade our documentation. Build more fritzing examples, API prototypes, and call out features that are currently missing from the docs
   * [ ] Update the tessel.io website to more accurately represent the project and its plans (https://github.com/tessel/tessel.io/issues/102)
 2. **Support and grow the number of production deployments of Tessel in the field.**
-  * [ ] Create a guide to production-scale deployment of a Tessel project
-  * [ ] Research user needs: What do people need to use T2 in production? Why aren't they using it currently?
+  * [ ] Create a guide for production-scale deployment of a Tessel project
+  * [ ] Research user needs: Why do people need to use T2 in production? Why aren't they using it currently?
   * [ ] Build Reach (https://github.com/tessel/project/issues/142)
-  * [ ] Get to JavaScript parity with Rust API and documentation (https://github.com/tessel/tessel-rust). Figure out JS-Rust inter-exection
+  * [ ] Get to JavaScript parity with Rust API and documentation (https://github.com/tessel/tessel-rust). Figure out JS-Rust inter-execution
   * [ ] Investigate and possibly execute a Tessel hardware upgrade (Tessel 2.1) for more RAM and Flash. This should legitimize the platform and build out the capabilities so there is less user experience friction
 
 ## Working groups
@@ -38,8 +38,8 @@ The Tessel Project has these goals for September 2017 (our next Tessel Summit). 
 The Tessel Project forms working groups to accomplish our year-long goals.
 
 ### What's a working group?
-* A working group (WG) is a group of people working toward a defined, accomplishable goal.
-* WGs create some output measure of progress on a regular (every 1-2 weeks) schedule, whether that's meeting notes or something else
+* A working group (WG) is a group of people working towards a defined, accomplishable goal.
+* WGs create some output measure of progress on a regular (every 1-2 weeks) schedule, whether it's meeting notes or something else
 
 ### What working groups do we need to accomplish this year's goals?
 * **[Website WG](https://github.com/tessel/tessel.io/issues/102)**:  Create a better website for what we are & what we plan to be based on this year’s goals. [Learn more/get involved](https://github.com/tessel/tessel.io/issues/102). On Tessel's Slack, join #website-wg
