@@ -16,37 +16,7 @@ Tessel is about designing intuitive and accessible hardware development experien
 ### What can I find in this repo?
 This repository is for the organization and governance of the Tessel project as a whole. For code, see the [Tessel GitHub organization](https://github.com/tessel).
 
-For an introduction to the project's organization and key repos, check out the [Technical Overview](https://tessel.gitbooks.io/t2-docs/content/Debugging/Technical_Overview.html).
-
-# Current goals
-
-The Tessel Project has the following goals for September 2017 (our next Tessel Summit). They are organized into two overarching themes, each with several supporting tasks:
-
-1. **Grow the community to increase contributions and encourage both inclusion and accessibility to newcomers.**
-  * [ ] Build effective working groups that can complete their tasks with measurable results. Celebrate the work of each working groups as the goals are accomplished
-  * [ ] Upgrade our documentation. Build more fritzing examples, API prototypes, and call out features that are currently missing from the docs
-  * [ ] Update the tessel.io website to more accurately represent the project and its plans (https://github.com/tessel/tessel.io/issues/102)
-2. **Support and grow the number of production deployments of Tessel in the field.**
-  * [ ] Create a guide for production-scale deployment of a Tessel project
-  * [ ] Research user needs: Why do people need to use T2 in production? Why aren't they using it currently?
-  * [ ] Build Reach (https://github.com/tessel/project/issues/142)
-  * [ ] Get to JavaScript parity with Rust API and documentation (https://github.com/tessel/tessel-rust). Figure out JS-Rust inter-execution
-  * [ ] Investigate and possibly execute a Tessel hardware upgrade (Tessel 2.1) for more RAM and Flash. This should legitimize the platform and build out the capabilities so there is less user experience friction
-
-## Working groups
-
-The Tessel Project forms working groups to accomplish our year-long goals.
-
-### What's a working group?
-* A working group (WG) is a group of people working towards a defined, accomplishable goal.
-* WGs create some output measure of progress on a regular (every 1-2 weeks) schedule, whether it's meeting notes or something else
-
-### What working groups do we need to accomplish this year's goals?
-* **[Website WG](https://github.com/tessel/tessel.io/issues/102)**:  Create a better website for what we are & what we plan to be based on this year’s goals. [Learn more/get involved](https://github.com/tessel/tessel.io/issues/102). On Tessel's Slack, join #website-wg
-* **[Rust WG](https://github.com/tessel/tessel-rust)**: Get the Rust language to 1st class support on Tessel. On Tessel's Slack, join #rust-wg
-* **[Reach WG](https://github.com/tessel/project/issues/142)**: ship Reach, a low-power sensor node for Tessel ecosystems. On Tessel's Slack, join #reach-wg
-* **[Production WG](https://github.com/tessel/project/issues/207)**: investigate user needs for production & write a guide on how to take a Tessel project to product scale. Also build and document GPIO/GUTS (Great Uses for Tessel in Stuff e.g. hacking a production system) projects. [Learn more/get involved](https://github.com/tessel/project/issues/207). On Tessel's Slack, join #production-wg
-* **Tessel Memory WG**: make larger projects deployable on T2, possibly as a 2.1 Tessel hardware
+For an introduction to the project's organization and key repos, check out the [Technical Overview](https://tessel.gitbooks.io/t2-docs/content/Debugging/Technical_Overview.html)
 
 # How can I get involved with the Tessel Project?
 
