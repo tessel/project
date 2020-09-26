@@ -82,5 +82,4 @@ The project Team Members may not have time to investigate every issue. If you fi
 
 ## Image Hosting Guidelines
 Currently, this project utilizes the Tessel Project Imgur, older image assets are on AWS from Technical Machine days, and we have a few miscellaneously hosted images too. 
-Moving forward, our process will be to streamline image hosting through Tessel Project's Imgur. Older assets on AWS and elsewhere can be retroactivley moved over in the future. The Imgur should have folders per project/feature/whatever the image is of.
-Images should be named as follows (topic_dateadded) so even in the folders there is a clear and concise organization.
+Moving forward, our process will be to create a Tessel Photo GitHub Repo - GitHub makes it easy to manage photo files and having a dedicated photo repo will keep that organized and avoid any issues of some people not having access
