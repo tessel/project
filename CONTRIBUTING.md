@@ -78,3 +78,8 @@ After the code has been reviewed, the Team Member may suggest several things to 
 ## Issue Triage
 
 The project Team Members may not have time to investigate every issue. If you find an older issue that nobody has commented on, it would be very appreciated if you could reproduce the issue, make a simple test case if necessary, and potentially suggest the root cause and/or solutions.
+
+
+## Image Hosting Guidelines
+Currently, this project utilizes the Tessel Project Imgur, older image assets are on AWS from Technical Machine days, and we have a few miscellaneously hosted images too. 
+Moving forward, our process will be to create a Tessel Photo GitHub Repo (https://github.com/tessel/image-host) GitHub makes it easy to manage photo files and having a dedicated photo repo will keep that organized and avoid any issues of some people not having access
