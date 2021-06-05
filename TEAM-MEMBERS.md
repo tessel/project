@@ -30,6 +30,7 @@ A brief guide for new Team Members. :tada: Welcome to the team!
 * **Team Members on Slack** Join #team-members on Tessel Slack for discussion with your fellow Team Members.
 * **Make a post** on the [Tessel Blog](https://github.com/tessel/this-week-in-tessel) introducing yourself to the community. [Here are some suggestions for an introductory blog post.](https://github.com/tessel/this-week-in-tessel/issues/24)
 * **Get to know your mentor.** Your mentor is the Steering Committee member who asked you to become a Team Member. Schedule a call with them to get up to speed on Project priorities and to schedule your Support Week.
+* **Do something!** Check out the current project goals in the [Goals section of the Readme](https://github.com/tessel/project#current-goals) and find something to work on!
 
 ## Approving or rejecting modifications to assets (such as bug fixes, code refactoring, or minor API or feature changes)
 
