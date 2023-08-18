@@ -7,8 +7,14 @@ Tessel is a completely open source and community-driven IoT and robotics develop
 
 One common misconception is that we're a company. We're not! We're just a collection of (unpaid) people who find it worthwhile to spend our time building towards the Tessel Project [mission](MISSION.md).
 
-### What's a Tessel?
-Our website [tessel.io](https://tessel.io) should give you an overview of the hardware we build. You can see examples of things people have built on Tessel on our [projects page](https://tessel.io/projects).
+### Important announcement
+While this project has seen quieter days in terms of maintenance, we're excited to see new contributors like you keeping the spirit alive. Even though it might not receive regular updates, the fact that your tessel is still functioning is a testament to the quality of this project.
+
+### Maintenance status?
+Please note that Project is currently an unmaintained open source project. While we may not be able to provide timely support or actively address issues, we encourage you to explore, experiment, and make the most of what's already here.
+
+### Working with the Code
+Feel free to tinker with the codebase, propose improvements, or even fix issues that you come across. Your contributions are immensely valuable, and we hope you can help breathe new life into this project.
 
 ### What is this Tessel Project all about?
 Tessel is about designing intuitive and accessible hardware development experiences around the open web. Feel free to read more about our [mission](MISSION.md) and [governance model](GOVERNANCE.md). Please also read and adhere to our [code of conduct](https://github.com/tessel/project/blob/master/CONDUCT.md).
@@ -26,15 +32,13 @@ Find an issue tagged ["contribution-starter"](https://github.com/issues?q=is%3Ao
 
 ## Quick start
 
-1. [Join the team slack](//tessel-slack.herokuapp.com) and express your interest in contributing in the #community channel. You will receive a warm welcome.
-2. Read the [Technical Overview](https://tessel.gitbooks.io/t2-docs/content/Debugging/Technical_Overview.html) to see if any particular area of the project strikes your fancy.
-3. Back on Slack, let us know if there's something in particular you'd like to work on – we're happy to help you get set up! A general post in #community should work.
+1. Read the [Technical Overview](https://tessel.gitbooks.io/t2-docs/content/Debugging/Technical_Overview.html) to see if any particular area of the project strikes your fancy.
+
 
 ## The (slightly) longer version
 
 By contributing to Tessel, you'll be a valued member of a passionate, diverse team and one of the pioneers of the burgeoning connected devices space. Here are some ways in which you can get involved:
 
-* [How to contribute to Tessel 2 (without needing hardware)](https://tessel.io/blog/118385488827/contributing-to-tessel-2-without-hardware)
 * Submit code or patches for [Tessel modules and tools](https://github.com/tessel)
 * [Discuss the Tessel Project's goals and governance](https://github.com/tessel/project/issues)
 
@@ -45,18 +49,7 @@ Learn more about how we [collaborate using Github](CONTRIBUTING.md):
 * [Pull Requests](CONTRIBUTING.md#pull-requests)
 * [Issue Triage](CONTRIBUTING.md#issue-triage)
 
-If you have questions, please make a post on [our forums](https://forums.tessel.io) and someone from the community will respond shortly. All contributors are expected to follow our [Code of Conduct](CONDUCT.md).
-
-# Reach out
-
-Get involved with our community in any way you are interested:
-
-* **[Join us on Slack](https://tessel-slack.herokuapp.com/) &mdash; Collaboration and real time discussions (Recommended! - ask your questions here).**
-* [Tessel Forums](https://forums.tessel.io/) &mdash; General discussion and support by the Tessel community.
-* [tessel.hackster.io](http://tessel.hackster.io) &mdash; Community-submitted projects made with Tessel.
-* [tessel.io/community](http://tessel.io/community) &mdash; Join a Tessel meetup near you! Meetups happen around the world and are the easiest way to play with hardware in person.
-* [#tessel on Freenode](https://www.irccloud.com/#!/chat.freenode.net:6667/%23tessel) &mdash; IRC channel for development questions and live help.
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/tessel) &mdash; Technical questions about using Tessel.
+All contributors are expected to follow our [Code of Conduct](CONDUCT.md).
 
 # Read more
 
